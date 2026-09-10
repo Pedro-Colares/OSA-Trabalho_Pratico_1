@@ -1,0 +1,1001 @@
+matricula,nome,idade,curso,cidade,uf,cra
+20260001,Bruno Fernandes Lopes,32,Sistemas de Informacao,Pirapora,GO,8.63
+20260002,Amanda Machado Oliveira,19,Engenharia Eletrica,Belo Horizonte,BA,7.48
+20260003,Nicolas Cavalcanti,44,Analise e Desenvolvimento de Sistemas,Juiz de Fora,ES,6.36
+20260004,Lucas Machado Dias Fernandes,27,Analise e Desenvolvimento de Sistemas,Janauba,MG,5.45
+20260005,Caio Castro,34,Ciencia da Computacao,Juiz de Fora,ES,5.61
+20260006,Fernanda Monteiro Vieira Brito,41,Matematica,Belo Horizonte,GO,5.34
+20260007,Vinicius Ferreira Almeida,24,Administracao,Porteirinha,RJ,8.11
+20260008,Debora Nascimento Carvalho,35,Quimica,Salinas,ES,8.11
+20260009,Rafaela Costa Freitas,42,Engenharia de Software,Ouro Preto,BA,8.35
+20260010,Daniela Almeida Oliveira Rocha,43,Engenharia de Software,Salinas,BA,9.47
+20260011,Alexandre Carvalho Ramos,43,Fisica,Juiz de Fora,BA,6.3
+20260012,Leticia Cavalcanti Soares,55,Administracao,Curvelo,RJ,6.77
+20260013,Igor Teixeira Ramos Ferreira,21,Engenharia Eletrica,Almenara,GO,5.78
+20260014,Gustavo Rodrigues Moreira,42,Matematica,Juiz de Fora,ES,6.23
+20260015,Ana Pereira Cavalcanti,35,Fisica,Janauba,MG,6.44
+20260016,Ana Soares,50,Sistemas de Informacao,Lavras,MG,9.27
+20260017,Rodrigo Castro Martins,27,Medicina,Teofilo Otoni,ES,9.67
+20260018,Ana Castro Rocha Ramos,19,Engenharia Eletrica,Sao Francisco,DF,8.95
+20260019,Rafaela Medeiros Ferreira,23,Quimica,Vicosa,DF,5.34
+20260020,Igor Lima Cardoso Monteiro,28,Engenharia de Software,Lavras,DF,7.97
+20260021,Felipe Martins Barbosa Nunes,41,Direito,Lavras,RJ,5.59
+20260022,Beatriz Santos Pinto,53,Analise e Desenvolvimento de Sistemas,Curvelo,BA,5.04
+20260023,Daniela Almeida Rodrigues Oliveira,39,Engenharia Eletrica,Lavras,BA,6.36
+20260024,Felipe Lima Medeiros,54,Direito,Diamantina,DF,7.32
+20260025,Gabriel Alves Machado,40,Administracao,Uberlandia,RJ,9.23
+20260026,Gabriel Souza,43,Quimica,Janauba,DF,9.22
+20260027,Nicolas Cavalcanti Mendes,26,Administracao,Teofilo Otoni,SP,7.27
+20260028,Eduardo Mendes Monteiro Alves,21,Fisica,Ouro Preto,DF,5.07
+20260029,Rafaela Costa,44,Direito,Vicosa,BA,9.24
+20260030,Lucas Moreira Silva Moreira,34,Direito,Brasilia de Minas,RJ,8.41
+20260031,Leticia Ramos Gomes Martins,36,Analise e Desenvolvimento de Sistemas,Januaria,ES,8.61
+20260032,Alexandre Souza,21,Matematica,Vicosa,ES,9.5
+20260033,Daniela Teixeira Ferreira,29,Engenharia Eletrica,Governador Valadares,MG,8.31
+20260034,Helena Medeiros Lopes,55,Matematica,Januaria,ES,5.4
+20260035,Thiago Moura Rocha,34,Analise e Desenvolvimento de Sistemas,Janauba,BA,6.3
+20260036,Yasmin Freitas,38,Engenharia Eletrica,Montes Claros,RJ,8.04
+20260037,Gabriel Rodrigues Cavalcanti,31,Agronomia,Porteirinha,BA,9.57
+20260038,Rafaela Andrade Vieira Costa,46,Agronomia,Brasilia de Minas,ES,9.82
+20260039,Camila Silva Monteiro Barbosa,24,Sistemas de Informacao,Porteirinha,MG,9.36
+20260040,Juliana Fernandes Vieira Castro,31,Quimica,Janauba,BA,8.37
+20260041,Rodrigo Ramos Soares Souza,23,Fisica,Uberlandia,DF,6.36
+20260042,Igor Soares,28,Quimica,Juiz de Fora,ES,8.46
+20260043,Helena Rodrigues Gomes,52,Ciencia da Computacao,Sao Francisco,ES,7.71
+20260044,Carlos Barbosa Andrade,20,Medicina,Belo Horizonte,GO,6.22
+20260045,Leticia Marques,27,Analise e Desenvolvimento de Sistemas,Teofilo Otoni,DF,8.97
+20260046,Bruno Ribeiro Dias Marques,33,Engenharia de Software,Teofilo Otoni,DF,8.44
+20260047,Carlos Cardoso Almeida,30,Direito,Sao Francisco,SP,9.02
+20260048,Pedro Santos Martins Nunes,39,Engenharia de Software,Salinas,DF,6.37
+20260049,Flavia Cavalcanti Dias,19,Engenharia Eletrica,Porteirinha,BA,7.84
+20260050,Carlos Alves Castro Machado,40,Quimica,Janauba,RJ,7.97
+20260051,Enzo Medeiros Martins,34,Ciencia da Computacao,Uberlandia,MG,7.55
+20260052,Nicolas Andrade Machado Rodrigues,39,Matematica,Janauba,GO,9.16
+20260053,Yasmin Teixeira Barbosa Marques,38,Administracao,Brasilia de Minas,ES,5.62
+20260054,Enzo Ribeiro Brito,54,Engenharia de Software,Coronel Fabriciano,ES,9.09
+20260055,Olivia Machado Pinto,38,Direito,Juiz de Fora,RJ,8.31
+20260056,Lucas Ferreira Vieira,50,Fisica,Governador Valadares,SP,5.46
+20260057,Rafaela Barbosa Almeida Martins,27,Ciencia da Computacao,Januaria,BA,9.82
+20260058,Eduardo Freitas Marques,54,Analise e Desenvolvimento de Sistemas,Coronel Fabriciano,RJ,6.96
+20260059,Ana Alves,45,Analise e Desenvolvimento de Sistemas,Teofilo Otoni,DF,9.69
+20260060,Daniela Monteiro Lopes,25,Direito,Almenara,DF,7.28
+20260061,Leticia Castro Rocha,46,Matematica,Lavras,RJ,9.07
+20260062,Lucas Cardoso Mendes,34,Analise e Desenvolvimento de Sistemas,Porteirinha,DF,8.81
+20260063,Rafaela Fernandes Mendes,22,Quimica,Brasilia de Minas,BA,6.33
+20260064,Felipe Ferreira Lima,27,Analise e Desenvolvimento de Sistemas,Coronel Fabriciano,GO,5.75
+20260065,Guilherme Marques Dias,52,Direito,Uberlandia,MG,6.01
+20260066,Amanda Santos Medeiros,42,Direito,Montes Claros,SP,6.46
+20260067,Guilherme Cavalcanti Cavalcanti,32,Direito,Diamantina,SP,7.14
+20260068,Beatriz Nunes,28,Direito,Almenara,ES,7.62
+20260069,Amanda Medeiros Santos Ferreira,45,Sistemas de Informacao,Juiz de Fora,BA,5.25
+20260070,Olivia Freitas Rocha,39,Administracao,Porteirinha,DF,9.66
+20260071,Fernanda Cardoso Santos,52,Ciencia da Computacao,Sao Francisco,BA,8.19
+20260072,Carlos Santos Lopes Martins,19,Matematica,Almenara,BA,5.62
+20260073,Thiago Carvalho Freitas,34,Medicina,Teofilo Otoni,ES,7.98
+20260074,Helena Costa Barbosa Alves,55,Ciencia da Computacao,Brasilia de Minas,ES,8.32
+20260075,Flavia Martins Rodrigues Pinto,33,Engenharia Eletrica,Brasilia de Minas,DF,8.35
+20260076,Thiago Oliveira Nascimento Cavalcanti,45,Fisica,Sao Francisco,MG,7.48
+20260077,Guilherme Ramos Alves,45,Medicina,Juiz de Fora,GO,5.75
+20260078,Camila Fernandes,52,Direito,Juiz de Fora,RJ,9.05
+20260079,Alexandre Lopes Ferreira,35,Direito,Diamantina,DF,7.28
+20260080,Enzo Dias Santos,49,Medicina,Teofilo Otoni,RJ,6.04
+20260081,Beatriz Fernandes Castro Fernandes,53,Ciencia da Computacao,Lavras,BA,5.42
+20260082,Natalia Monteiro Lopes Cardoso,49,Direito,Montes Claros,MG,6.44
+20260083,Rafaela Barbosa Pinto,41,Direito,Ouro Preto,ES,6.68
+20260084,Leticia Dias Nascimento Freitas,35,Engenharia de Software,Porteirinha,BA,5.59
+20260085,Helena Cavalcanti,29,Analise e Desenvolvimento de Sistemas,Belo Horizonte,GO,7.37
+20260086,Camila Castro Vieira Alves,30,Engenharia de Software,Diamantina,SP,5.88
+20260087,Felipe Lima,35,Ciencia da Computacao,Januaria,ES,6.43
+20260088,Natalia Alves Silva Medeiros,36,Direito,Vicosa,RJ,6.67
+20260089,Samuel Cardoso Pereira Rodrigues,43,Direito,Salinas,ES,8.08
+20260090,Juliana Medeiros,37,Engenharia Eletrica,Diamantina,MG,7.73
+20260091,Gustavo Brito Almeida,51,Administracao,Juiz de Fora,RJ,6.46
+20260092,Isabela Barbosa Medeiros,21,Matematica,Pirapora,DF,6.02
+20260093,Fernanda Costa Lopes,29,Agronomia,Salinas,BA,5.01
+20260094,Gustavo Cardoso Vieira,20,Analise e Desenvolvimento de Sistemas,Brasilia de Minas,GO,6.39
+20260095,Eduardo Almeida Soares Pinto,30,Administracao,Pirapora,ES,6.1
+20260096,Tatiana Gomes,22,Ciencia da Computacao,Teofilo Otoni,DF,6.51
+20260097,Thiago Vieira Mendes Pereira,47,Quimica,Brasilia de Minas,GO,6.97
+20260098,Felipe Ramos Mendes,23,Matematica,Januaria,RJ,8.6
+20260099,Bruno Ferreira Almeida,54,Matematica,Montes Claros,DF,8.29
+20260100,Carlos Ribeiro Cardoso,51,Fisica,Juiz de Fora,SP,5.89
+20260101,Natalia Ferreira Cardoso,40,Administracao,Janauba,SP,8.28
+20260102,Beatriz Marques Ramos Vieira,43,Agronomia,Januaria,RJ,5.43
+20260103,Helena Nunes Teixeira,18,Fisica,Ouro Preto,RJ,7.02
+20260104,Debora Brito,49,Fisica,Juiz de Fora,DF,5.25
+20260105,Igor Vieira Mendes,49,Engenharia Eletrica,Montes Claros,GO,7.98
+20260106,Lucas Barbosa Monteiro,18,Agronomia,Uberlandia,MG,6.1
+20260107,Helena Freitas Pereira Gomes,49,Quimica,Brasilia de Minas,ES,8.46
+20260108,Matheus Cardoso Lopes,47,Agronomia,Almenara,RJ,5.93
+20260109,Igor Rodrigues Fernandes,44,Medicina,Lavras,SP,9.02
+20260110,Yasmin Pinto Pinto,49,Sistemas de Informacao,Juiz de Fora,ES,7.37
+20260111,Felipe Moreira Freitas,38,Analise e Desenvolvimento de Sistemas,Diamantina,ES,6.88
+20260112,Guilherme Oliveira Rocha Cardoso,42,Administracao,Almenara,RJ,9.73
+20260113,Amanda Dias,24,Direito,Pirapora,ES,9.46
+20260114,Juliana Marques,27,Engenharia Eletrica,Vicosa,DF,9.75
+20260115,Flavia Ferreira Dias,52,Administracao,Janauba,GO,8.52
+20260116,Felipe Oliveira Brito Rodrigues,33,Fisica,Brasilia de Minas,BA,8.66
+20260117,Gabriel Alves Mendes,28,Quimica,Brasilia de Minas,MG,5.23
+20260118,Vinicius Nascimento Andrade Machado,27,Analise e Desenvolvimento de Sistemas,Lavras,RJ,7.77
+20260119,Lucas Ribeiro Ferreira Brito,42,Matematica,Diamantina,RJ,9.47
+20260120,Larissa Soares,47,Engenharia de Software,Montes Claros,DF,7.28
+20260121,Felipe Costa Rodrigues,46,Medicina,Curvelo,SP,8.13
+20260122,Samuel Freitas Barbosa,30,Administracao,Vicosa,MG,6.16
+20260123,Thiago Vieira Vieira,19,Fisica,Coronel Fabriciano,SP,5.04
+20260124,Daniela Castro Ramos Vieira,32,Matematica,Sao Francisco,BA,8.12
+20260125,Igor Alves Oliveira,37,Direito,Januaria,ES,6.79
+20260126,Vinicius Rocha,44,Sistemas de Informacao,Belo Horizonte,BA,8.85
+20260127,Debora Moura Teixeira Fernandes,28,Engenharia de Software,Vicosa,DF,6.45
+20260128,Helena Freitas Rodrigues Gomes,32,Fisica,Coronel Fabriciano,DF,8.94
+20260129,Flavia Silva Soares,52,Engenharia Eletrica,Juiz de Fora,SP,8.3
+20260130,Amanda Moreira Andrade,24,Fisica,Diamantina,RJ,5.12
+20260131,Leticia Rocha Brito Almeida,22,Fisica,Juiz de Fora,GO,6.48
+20260132,Igor Oliveira Oliveira,37,Direito,Pirapora,MG,6.15
+20260133,Enzo Freitas Andrade,52,Administracao,Curvelo,GO,8.56
+20260134,Gabriel Ramos Brito Marques,35,Ciencia da Computacao,Sao Francisco,BA,7.17
+20260135,Debora Alves Andrade Cavalcanti,40,Ciencia da Computacao,Coronel Fabriciano,SP,5.93
+20260136,Larissa Ferreira,31,Fisica,Governador Valadares,MG,5.25
+20260137,Igor Medeiros Carvalho,22,Agronomia,Belo Horizonte,ES,6.06
+20260138,Beatriz Gomes Castro Silva,35,Sistemas de Informacao,Almenara,ES,6.23
+20260139,Bruno Lima,18,Medicina,Diamantina,ES,6.59
+20260140,Daniela Lima,44,Agronomia,Pirapora,GO,5.31
+20260141,Debora Teixeira Pinto,24,Direito,Lavras,BA,9.63
+20260142,Camila Barbosa,47,Fisica,Montes Claros,MG,9.89
+20260143,Isabela Alves Ramos Mendes,22,Engenharia Eletrica,Janauba,ES,5.73
+20260144,Luana Pinto,53,Quimica,Janauba,RJ,9.87
+20260145,Larissa Teixeira Castro,45,Engenharia Eletrica,Pirapora,DF,8.21
+20260146,Leticia Carvalho Machado Mendes,32,Administracao,Janauba,DF,7.22
+20260147,Gabriel Rocha Machado,38,Fisica,Porteirinha,SP,9.67
+20260148,Matheus Rodrigues Ferreira,23,Engenharia Eletrica,Uberlandia,MG,8.65
+20260149,Igor Monteiro Souza,55,Agronomia,Ouro Preto,SP,8.28
+20260150,Isabela Souza Vieira,37,Medicina,Pirapora,ES,7.49
+20260151,Matheus Almeida,24,Medicina,Ouro Preto,SP,5.56
+20260152,Pedro Machado Monteiro,53,Ciencia da Computacao,Governador Valadares,GO,9.06
+20260153,Mariana Fernandes Barbosa,39,Medicina,Montes Claros,BA,9.26
+20260154,Flavia Rodrigues Gomes,19,Engenharia Eletrica,Lavras,BA,6.84
+20260155,Lucas Andrade Barbosa,38,Matematica,Governador Valadares,MG,9.33
+20260156,Luana Souza,23,Engenharia de Software,Juiz de Fora,GO,7.08
+20260157,Guilherme Fernandes Carvalho,50,Engenharia Eletrica,Sao Francisco,RJ,5.54
+20260158,Amanda Ramos Moura,37,Ciencia da Computacao,Diamantina,RJ,9.82
+20260159,Olivia Barbosa,31,Sistemas de Informacao,Porteirinha,SP,6.61
+20260160,Isabela Ribeiro,26,Administracao,Ouro Preto,GO,6.13
+20260161,Caio Rodrigues Nunes,20,Administracao,Montes Claros,RJ,9.51
+20260162,Thiago Machado Medeiros Nunes,44,Engenharia de Software,Pirapora,RJ,5.1
+20260163,Luana Freitas Andrade,23,Administracao,Pirapora,BA,7.13
+20260164,Fernanda Nunes Barbosa,39,Analise e Desenvolvimento de Sistemas,Janauba,DF,5.82
+20260165,Helena Moura Teixeira,30,Medicina,Sao Francisco,GO,9.7
+20260166,Juliana Lopes Alves,27,Engenharia de Software,Belo Horizonte,BA,7.95
+20260167,Eduardo Ribeiro Ramos Freitas,54,Matematica,Juiz de Fora,GO,9.53
+20260168,Luana Rocha Rocha,27,Direito,Salinas,RJ,7.17
+20260169,Tatiana Pinto Souza,40,Agronomia,Salinas,SP,7.26
+20260170,Debora Vieira,22,Fisica,Salinas,ES,7.91
+20260171,Amanda Monteiro Oliveira,46,Matematica,Belo Horizonte,SP,7.96
+20260172,Daniela Mendes Alves,39,Quimica,Salinas,ES,8.17
+20260173,Joao Mendes,51,Agronomia,Governador Valadares,BA,6.78
+20260174,Enzo Marques Dias Castro,21,Fisica,Janauba,MG,6.62
+20260175,Enzo Vieira Soares,27,Medicina,Salinas,ES,8.25
+20260176,Yasmin Nunes Lima Castro,23,Engenharia de Software,Ouro Preto,RJ,8.15
+20260177,Igor Moura Ferreira,45,Agronomia,Sao Francisco,MG,6.78
+20260178,Olivia Dias,49,Analise e Desenvolvimento de Sistemas,Diamantina,BA,5.76
+20260179,Gabriel Teixeira Cavalcanti,51,Ciencia da Computacao,Janauba,DF,8.03
+20260180,Juliana Costa Ribeiro,28,Quimica,Juiz de Fora,MG,7.01
+20260181,Rafaela Mendes Brito,36,Quimica,Juiz de Fora,BA,7.62
+20260182,Matheus Martins Andrade,54,Direito,Juiz de Fora,DF,6.38
+20260183,Camila Marques Costa,30,Matematica,Almenara,DF,6.23
+20260184,Debora Monteiro Alves,51,Engenharia Eletrica,Brasilia de Minas,MG,8.74
+20260185,Rodrigo Gomes Machado,23,Analise e Desenvolvimento de Sistemas,Juiz de Fora,SP,9.56
+20260186,Flavia Teixeira Andrade,33,Administracao,Salinas,SP,6.1
+20260187,Gabriel Dias Gomes,26,Ciencia da Computacao,Brasilia de Minas,DF,7.32
+20260188,Matheus Mendes Brito Silva,23,Ciencia da Computacao,Porteirinha,BA,9.09
+20260189,Gustavo Moura Machado,25,Engenharia de Software,Diamantina,SP,5.6
+20260190,Luana Freitas Rodrigues,25,Direito,Governador Valadares,ES,5.08
+20260191,Rafaela Gomes Vieira,45,Ciencia da Computacao,Governador Valadares,SP,6.18
+20260192,Fernanda Moura Andrade,22,Agronomia,Ouro Preto,ES,8.85
+20260193,Bruno Moreira Cardoso,20,Fisica,Coronel Fabriciano,SP,6.24
+20260194,Eduardo Nascimento,33,Quimica,Pirapora,DF,7.85
+20260195,Igor Oliveira Nascimento Cavalcanti,39,Fisica,Teofilo Otoni,DF,8.82
+20260196,Matheus Ribeiro Lima,22,Quimica,Juiz de Fora,MG,6.44
+20260197,Nicolas Oliveira,38,Engenharia de Software,Lavras,RJ,9.85
+20260198,Samuel Oliveira Martins,36,Medicina,Januaria,DF,8.21
+20260199,Debora Machado Nunes,46,Administracao,Janauba,BA,7.43
+20260200,Camila Fernandes Ferreira,45,Engenharia Eletrica,Uberlandia,ES,9.88
+20260201,Vinicius Rocha,24,Engenharia Eletrica,Janauba,GO,6.45
+20260202,Isabela Costa Mendes,40,Direito,Januaria,GO,9.26
+20260203,Isabela Fernandes Souza,22,Fisica,Coronel Fabriciano,SP,7.51
+20260204,Lucas Santos Gomes Castro,46,Ciencia da Computacao,Almenara,MG,6.16
+20260205,Debora Moreira Medeiros,20,Matematica,Almenara,GO,7.2
+20260206,Joao Rodrigues Medeiros,26,Agronomia,Sao Francisco,RJ,6.54
+20260207,Helena Santos Ribeiro,49,Agronomia,Coronel Fabriciano,ES,5.58
+20260208,Joao Carvalho Brito Vieira,49,Analise e Desenvolvimento de Sistemas,Pirapora,BA,9.18
+20260209,Joao Ferreira Rocha,40,Quimica,Salinas,ES,7.66
+20260210,Lucas Ribeiro Andrade Teixeira,32,Engenharia Eletrica,Belo Horizonte,DF,5.68
+20260211,Bruno Andrade Monteiro Medeiros,41,Direito,Ouro Preto,BA,8.0
+20260212,Yasmin Nunes,48,Agronomia,Uberlandia,DF,7.01
+20260213,Igor Rocha Rodrigues,46,Direito,Lavras,SP,5.63
+20260214,Leticia Pinto Ribeiro Lima,45,Agronomia,Januaria,DF,5.61
+20260215,Lucas Costa,38,Quimica,Diamantina,SP,9.64
+20260216,Vinicius Ferreira Soares,30,Fisica,Ouro Preto,SP,5.61
+20260217,Felipe Ferreira Teixeira,28,Matematica,Curvelo,BA,5.84
+20260218,Gustavo Dias Medeiros,20,Ciencia da Computacao,Salinas,MG,9.65
+20260219,Samuel Carvalho Medeiros Marques,19,Direito,Ouro Preto,SP,8.15
+20260220,Rafaela Nunes Barbosa,47,Engenharia Eletrica,Januaria,BA,7.15
+20260221,Olivia Dias Castro,27,Medicina,Janauba,GO,9.84
+20260222,Flavia Lima Andrade,50,Agronomia,Pirapora,SP,6.18
+20260223,Joao Lopes,27,Engenharia Eletrica,Januaria,SP,9.63
+20260224,Guilherme Lopes Costa Rocha,54,Quimica,Janauba,BA,8.74
+20260225,Rodrigo Freitas Ramos,37,Direito,Montes Claros,MG,9.63
+20260226,Rafaela Carvalho Pinto,40,Ciencia da Computacao,Januaria,SP,7.42
+20260227,Matheus Vieira Cavalcanti Silva,24,Administracao,Almenara,SP,8.56
+20260228,Debora Oliveira Nunes Souza,54,Agronomia,Belo Horizonte,SP,7.71
+20260229,Rodrigo Mendes,53,Engenharia de Software,Governador Valadares,GO,7.99
+20260230,Gabriel Nunes,41,Medicina,Ouro Preto,SP,8.7
+20260231,Rodrigo Nunes,50,Ciencia da Computacao,Januaria,MG,5.67
+20260232,Matheus Moura Freitas,27,Matematica,Lavras,BA,6.61
+20260233,Lucas Nunes Brito,37,Matematica,Janauba,ES,9.06
+20260234,Thiago Barbosa Cardoso,19,Medicina,Janauba,GO,5.54
+20260235,Yasmin Santos Castro,48,Engenharia de Software,Curvelo,ES,6.11
+20260236,Matheus Costa,51,Fisica,Governador Valadares,DF,9.12
+20260237,Rafaela Oliveira,54,Quimica,Pirapora,BA,5.09
+20260238,Juliana Marques Carvalho,44,Agronomia,Governador Valadares,RJ,9.28
+20260239,Daniela Lima Moura Carvalho,53,Medicina,Vicosa,ES,6.85
+20260240,Larissa Cavalcanti Dias Cavalcanti,40,Fisica,Porteirinha,ES,7.37
+20260241,Tatiana Monteiro Barbosa Almeida,37,Engenharia de Software,Belo Horizonte,GO,8.45
+20260242,Caio Monteiro Fernandes,36,Engenharia Eletrica,Curvelo,GO,7.66
+20260243,Flavia Nascimento Gomes Vieira,20,Engenharia de Software,Salinas,SP,9.53
+20260244,Matheus Carvalho Martins,52,Engenharia de Software,Ouro Preto,GO,6.33
+20260245,Amanda Lopes,33,Ciencia da Computacao,Lavras,BA,8.13
+20260246,Guilherme Dias,48,Engenharia Eletrica,Almenara,MG,9.73
+20260247,Lucas Marques Cardoso Cardoso,30,Engenharia de Software,Janauba,SP,8.16
+20260248,Fernanda Medeiros Almeida Cavalcanti,20,Sistemas de Informacao,Uberlandia,DF,5.86
+20260249,Flavia Ramos Ribeiro Vieira,20,Ciencia da Computacao,Brasilia de Minas,ES,7.95
+20260250,Beatriz Vieira Freitas Cavalcanti,51,Direito,Almenara,DF,7.47
+20260251,Helena Dias Costa,47,Fisica,Porteirinha,GO,5.91
+20260252,Vinicius Medeiros Martins Ribeiro,43,Administracao,Lavras,SP,5.43
+20260253,Mariana Lima Cardoso,38,Analise e Desenvolvimento de Sistemas,Montes Claros,SP,6.88
+20260254,Tatiana Dias Barbosa,55,Quimica,Curvelo,MG,6.28
+20260255,Rafaela Souza Pereira,47,Engenharia de Software,Teofilo Otoni,RJ,8.36
+20260256,Yasmin Pereira Vieira Andrade,32,Analise e Desenvolvimento de Sistemas,Almenara,RJ,5.75
+20260257,Gustavo Andrade Marques Monteiro,48,Agronomia,Belo Horizonte,DF,6.21
+20260258,Fernanda Moura Mendes Moura,41,Engenharia Eletrica,Curvelo,MG,5.3
+20260259,Rodrigo Martins Medeiros,52,Sistemas de Informacao,Teofilo Otoni,SP,9.19
+20260260,Olivia Pinto Ramos,23,Agronomia,Juiz de Fora,DF,5.27
+20260261,Guilherme Freitas,54,Ciencia da Computacao,Ouro Preto,RJ,8.3
+20260262,Bruno Nunes Soares,18,Quimica,Belo Horizonte,ES,5.36
+20260263,Eduardo Cavalcanti Souza,22,Direito,Januaria,SP,7.0
+20260264,Guilherme Andrade Moreira Mendes,42,Administracao,Salinas,GO,9.72
+20260265,Igor Nascimento Pereira Ribeiro,52,Administracao,Lavras,BA,8.57
+20260266,Ana Santos Barbosa,47,Fisica,Ouro Preto,RJ,7.61
+20260267,Rafaela Freitas Nascimento Gomes,35,Analise e Desenvolvimento de Sistemas,Pirapora,MG,8.97
+20260268,Bruno Lopes Carvalho,22,Engenharia Eletrica,Governador Valadares,MG,7.19
+20260269,Daniela Lopes Oliveira,43,Direito,Diamantina,ES,6.06
+20260270,Daniela Lima Teixeira Vieira,32,Quimica,Curvelo,SP,7.83
+20260271,Alexandre Lopes Barbosa Gomes,51,Analise e Desenvolvimento de Sistemas,Uberlandia,SP,6.35
+20260272,Amanda Ribeiro Machado,53,Direito,Januaria,SP,9.61
+20260273,Camila Rocha Marques,44,Sistemas de Informacao,Brasilia de Minas,RJ,5.9
+20260274,Rafaela Almeida Barbosa,27,Direito,Januaria,ES,7.02
+20260275,Camila Lima Moreira,33,Engenharia de Software,Belo Horizonte,SP,8.17
+20260276,Debora Ferreira Cavalcanti Martins,21,Engenharia de Software,Coronel Fabriciano,GO,7.96
+20260277,Eduardo Martins,55,Quimica,Ouro Preto,BA,7.35
+20260278,Beatriz Barbosa Silva Carvalho,30,Quimica,Pirapora,GO,9.9
+20260279,Rafaela Castro Carvalho,43,Analise e Desenvolvimento de Sistemas,Ouro Preto,SP,8.8
+20260280,Felipe Nascimento Barbosa,34,Medicina,Lavras,RJ,7.28
+20260281,Matheus Rocha Carvalho Andrade,38,Administracao,Januaria,ES,9.23
+20260282,Bruno Soares Monteiro Pinto,55,Quimica,Uberlandia,SP,5.75
+20260283,Enzo Medeiros Lopes,49,Agronomia,Janauba,SP,8.74
+20260284,Natalia Freitas Costa,40,Sistemas de Informacao,Almenara,GO,7.68
+20260285,Felipe Souza,51,Ciencia da Computacao,Salinas,DF,8.27
+20260286,Guilherme Lima Almeida Rodrigues,27,Ciencia da Computacao,Belo Horizonte,ES,7.23
+20260287,Luana Cardoso,49,Ciencia da Computacao,Montes Claros,ES,7.7
+20260288,Camila Fernandes,52,Engenharia de Software,Montes Claros,ES,8.98
+20260289,Mariana Alves Alves,51,Sistemas de Informacao,Diamantina,BA,8.04
+20260290,Caio Fernandes Nunes,23,Medicina,Coronel Fabriciano,RJ,7.77
+20260291,Pedro Barbosa Ferreira Oliveira,23,Administracao,Coronel Fabriciano,RJ,7.71
+20260292,Ana Costa,23,Direito,Uberlandia,GO,8.84
+20260293,Gabriel Moura Oliveira,32,Analise e Desenvolvimento de Sistemas,Curvelo,RJ,6.33
+20260294,Tatiana Cavalcanti Medeiros Oliveira,29,Medicina,Montes Claros,BA,7.88
+20260295,Flavia Rodrigues Barbosa Costa,54,Analise e Desenvolvimento de Sistemas,Curvelo,DF,9.16
+20260296,Felipe Dias Moreira,26,Quimica,Salinas,ES,8.65
+20260297,Gabriel Machado Almeida,22,Medicina,Governador Valadares,DF,8.01
+20260298,Alexandre Santos Fernandes,46,Direito,Diamantina,SP,7.71
+20260299,Mariana Pinto Moreira,23,Matematica,Brasilia de Minas,DF,6.21
+20260300,Tatiana Gomes,42,Quimica,Almenara,GO,6.91
+20260301,Fernanda Silva Barbosa,46,Medicina,Porteirinha,MG,5.65
+20260302,Joao Monteiro,53,Agronomia,Uberlandia,MG,5.13
+20260303,Fernanda Castro Castro,38,Administracao,Montes Claros,SP,7.03
+20260304,Leticia Lopes Medeiros Moura,28,Fisica,Coronel Fabriciano,BA,5.68
+20260305,Natalia Gomes Rodrigues,28,Administracao,Porteirinha,RJ,6.47
+20260306,Debora Soares Lopes Ramos,30,Direito,Pirapora,BA,6.49
+20260307,Beatriz Brito Moreira Dias,46,Medicina,Uberlandia,DF,9.04
+20260308,Gustavo Lima Barbosa,38,Matematica,Belo Horizonte,RJ,6.54
+20260309,Alexandre Vieira Ramos Medeiros,33,Medicina,Coronel Fabriciano,SP,9.0
+20260310,Helena Medeiros Martins,55,Agronomia,Teofilo Otoni,GO,8.76
+20260311,Larissa Carvalho,46,Engenharia de Software,Salinas,DF,9.15
+20260312,Natalia Lima Barbosa Lopes,34,Fisica,Almenara,GO,7.07
+20260313,Joao Castro Cardoso,55,Administracao,Ouro Preto,ES,9.53
+20260314,Guilherme Cavalcanti Oliveira Andrade,52,Matematica,Salinas,MG,8.77
+20260315,Caio Costa Brito,20,Matematica,Coronel Fabriciano,DF,6.62
+20260316,Gabriel Silva Alves Soares,32,Agronomia,Lavras,ES,7.84
+20260317,Joao Andrade Nunes,47,Fisica,Curvelo,GO,7.45
+20260318,Bruno Cardoso Alves,36,Administracao,Salinas,MG,9.07
+20260319,Caio Barbosa Dias Freitas,31,Agronomia,Vicosa,SP,7.33
+20260320,Joao Rocha Rodrigues,37,Ciencia da Computacao,Pirapora,MG,9.16
+20260321,Lucas Lopes Moura,29,Agronomia,Teofilo Otoni,SP,7.74
+20260322,Pedro Nunes Ribeiro Ribeiro,45,Administracao,Montes Claros,GO,8.01
+20260323,Amanda Machado,42,Ciencia da Computacao,Belo Horizonte,BA,6.36
+20260324,Eduardo Medeiros Alves Cavalcanti,29,Medicina,Janauba,BA,7.24
+20260325,Natalia Moura Rocha,42,Matematica,Coronel Fabriciano,ES,5.56
+20260326,Larissa Brito Ribeiro,37,Matematica,Curvelo,MG,8.29
+20260327,Rafaela Barbosa Pereira,29,Medicina,Almenara,ES,6.9
+20260328,Thiago Moreira Machado,29,Direito,Ouro Preto,GO,9.5
+20260329,Mariana Monteiro Costa Ramos,36,Sistemas de Informacao,Teofilo Otoni,SP,9.13
+20260330,Caio Silva Ramos,26,Analise e Desenvolvimento de Sistemas,Coronel Fabriciano,ES,7.48
+20260331,Natalia Marques Mendes,49,Sistemas de Informacao,Salinas,ES,5.15
+20260332,Vinicius Oliveira Fernandes Almeida,52,Engenharia de Software,Teofilo Otoni,DF,7.24
+20260333,Natalia Monteiro Teixeira Pereira,54,Engenharia Eletrica,Porteirinha,DF,7.66
+20260334,Felipe Oliveira Mendes Cavalcanti,31,Administracao,Pirapora,GO,9.07
+20260335,Yasmin Oliveira Mendes Soares,40,Engenharia Eletrica,Juiz de Fora,DF,9.87
+20260336,Rafaela Carvalho Pinto Nascimento,45,Sistemas de Informacao,Governador Valadares,BA,8.85
+20260337,Daniela Medeiros Nascimento Cavalcanti,35,Matematica,Ouro Preto,BA,6.59
+20260338,Vinicius Medeiros Fernandes Teixeira,24,Sistemas de Informacao,Uberlandia,MG,9.86
+20260339,Igor Lima Lopes Gomes,38,Analise e Desenvolvimento de Sistemas,Coronel Fabriciano,RJ,5.7
+20260340,Guilherme Moreira Mendes,22,Fisica,Salinas,RJ,7.53
+20260341,Debora Freitas Ramos,38,Matematica,Montes Claros,DF,8.79
+20260342,Larissa Nascimento Rodrigues Cavalcanti,43,Analise e Desenvolvimento de Sistemas,Uberlandia,DF,6.04
+20260343,Vinicius Dias Monteiro,54,Sistemas de Informacao,Curvelo,DF,7.38
+20260344,Daniela Oliveira Alves,47,Ciencia da Computacao,Pirapora,DF,5.77
+20260345,Isabela Martins Lima,37,Sistemas de Informacao,Porteirinha,MG,8.21
+20260346,Debora Costa Souza,43,Fisica,Brasilia de Minas,GO,8.43
+20260347,Fernanda Alves Silva,31,Direito,Salinas,BA,7.91
+20260348,Joao Silva Silva,39,Engenharia Eletrica,Uberlandia,GO,5.65
+20260349,Enzo Ferreira,24,Engenharia Eletrica,Janauba,SP,9.32
+20260350,Igor Gomes,22,Agronomia,Curvelo,MG,7.99
+20260351,Caio Carvalho,27,Administracao,Governador Valadares,GO,7.17
+20260352,Gabriel Lima Pereira,55,Quimica,Coronel Fabriciano,SP,9.72
+20260353,Igor Lopes Fernandes,23,Analise e Desenvolvimento de Sistemas,Ouro Preto,ES,7.94
+20260354,Bruno Barbosa Carvalho,51,Matematica,Lavras,BA,8.66
+20260355,Daniela Lopes Ramos,42,Engenharia Eletrica,Diamantina,RJ,8.13
+20260356,Ana Andrade,38,Sistemas de Informacao,Coronel Fabriciano,DF,9.11
+20260357,Felipe Ribeiro Cardoso,22,Ciencia da Computacao,Curvelo,MG,5.07
+20260358,Daniela Nunes Teixeira,36,Fisica,Lavras,DF,7.04
+20260359,Fernanda Cavalcanti Cavalcanti Brito,27,Engenharia de Software,Salinas,SP,5.39
+20260360,Juliana Cavalcanti Rocha Nunes,55,Fisica,Salinas,SP,8.42
+20260361,Rafaela Souza Lopes Ferreira,45,Engenharia Eletrica,Juiz de Fora,ES,7.98
+20260362,Mariana Pereira Silva,26,Quimica,Montes Claros,BA,7.43
+20260363,Camila Soares Costa,41,Sistemas de Informacao,Porteirinha,GO,9.34
+20260364,Bruno Dias Machado Fernandes,51,Engenharia Eletrica,Porteirinha,GO,9.78
+20260365,Natalia Freitas Teixeira,41,Ciencia da Computacao,Vicosa,DF,7.78
+20260366,Samuel Alves Medeiros,25,Analise e Desenvolvimento de Sistemas,Lavras,MG,5.22
+20260367,Rafaela Oliveira Cardoso Andrade,42,Sistemas de Informacao,Teofilo Otoni,DF,5.17
+20260368,Guilherme Almeida Rocha Lopes,44,Quimica,Janauba,SP,9.05
+20260369,Helena Teixeira Souza,29,Analise e Desenvolvimento de Sistemas,Lavras,MG,9.67
+20260370,Larissa Vieira,37,Medicina,Salinas,ES,7.24
+20260371,Vinicius Medeiros Barbosa,33,Direito,Sao Francisco,ES,9.76
+20260372,Nicolas Cavalcanti Lopes Gomes,18,Administracao,Montes Claros,BA,7.65
+20260373,Ana Dias Silva,42,Quimica,Brasilia de Minas,MG,6.01
+20260374,Guilherme Ramos Souza Gomes,35,Engenharia Eletrica,Januaria,BA,9.4
+20260375,Debora Freitas Ferreira,55,Engenharia Eletrica,Lavras,BA,8.12
+20260376,Amanda Medeiros Souza,45,Fisica,Almenara,BA,6.43
+20260377,Flavia Rocha Rocha Mendes,35,Analise e Desenvolvimento de Sistemas,Salinas,BA,5.67
+20260378,Gabriel Gomes Alves Costa,46,Direito,Janauba,RJ,5.59
+20260379,Olivia Mendes Barbosa,47,Engenharia de Software,Pirapora,MG,5.77
+20260380,Gustavo Oliveira Carvalho,38,Sistemas de Informacao,Salinas,GO,6.22
+20260381,Rodrigo Souza Barbosa,34,Sistemas de Informacao,Montes Claros,RJ,9.19
+20260382,Leticia Lopes Alves,47,Engenharia Eletrica,Almenara,MG,5.06
+20260383,Pedro Lima Martins Nunes,41,Fisica,Salinas,ES,7.87
+20260384,Eduardo Santos Rodrigues Martins,46,Sistemas de Informacao,Salinas,DF,9.06
+20260385,Carlos Freitas Souza,28,Matematica,Uberlandia,DF,8.55
+20260386,Enzo Machado Ribeiro,40,Analise e Desenvolvimento de Sistemas,Teofilo Otoni,SP,6.37
+20260387,Carlos Brito Brito Brito,33,Fisica,Brasilia de Minas,RJ,7.02
+20260388,Daniela Ferreira Fernandes,42,Sistemas de Informacao,Uberlandia,BA,8.15
+20260389,Rafaela Cavalcanti Santos Moreira,40,Direito,Ouro Preto,DF,7.37
+20260390,Rodrigo Rocha Moreira Fernandes,29,Ciencia da Computacao,Janauba,ES,6.07
+20260391,Tatiana Souza Cardoso Moura,40,Matematica,Diamantina,BA,5.49
+20260392,Tatiana Cavalcanti Souza,32,Matematica,Coronel Fabriciano,SP,9.58
+20260393,Mariana Ribeiro Lopes Pinto,38,Quimica,Sao Francisco,ES,5.14
+20260394,Thiago Medeiros Gomes Medeiros,30,Direito,Ouro Preto,SP,5.86
+20260395,Daniela Almeida,32,Ciencia da Computacao,Lavras,RJ,5.0
+20260396,Nicolas Lima Dias Ribeiro,38,Ciencia da Computacao,Montes Claros,BA,7.87
+20260397,Helena Moura Andrade Rodrigues,41,Quimica,Coronel Fabriciano,ES,5.5
+20260398,Igor Costa Machado,49,Fisica,Janauba,BA,8.47
+20260399,Luana Nascimento Almeida,55,Sistemas de Informacao,Coronel Fabriciano,SP,8.6
+20260400,Mariana Silva Medeiros,43,Matematica,Januaria,BA,7.95
+20260401,Luana Almeida Medeiros Alves,49,Sistemas de Informacao,Janauba,GO,5.38
+20260402,Alexandre Costa Ferreira,39,Direito,Montes Claros,SP,6.03
+20260403,Caio Soares Alves,18,Ciencia da Computacao,Coronel Fabriciano,RJ,8.59
+20260404,Guilherme Ramos Moreira Nascimento,52,Administracao,Pirapora,DF,7.35
+20260405,Pedro Costa Mendes Rodrigues,20,Engenharia de Software,Montes Claros,SP,6.28
+20260406,Beatriz Costa,42,Sistemas de Informacao,Salinas,ES,9.61
+20260407,Beatriz Castro Brito Cardoso,19,Administracao,Teofilo Otoni,ES,9.36
+20260408,Gabriel Dias,31,Analise e Desenvolvimento de Sistemas,Uberlandia,GO,7.72
+20260409,Felipe Soares Vieira Barbosa,33,Engenharia Eletrica,Januaria,RJ,7.8
+20260410,Juliana Souza Andrade Silva,45,Engenharia Eletrica,Brasilia de Minas,DF,8.24
+20260411,Nicolas Alves Santos,31,Sistemas de Informacao,Brasilia de Minas,MG,7.32
+20260412,Flavia Cardoso,49,Fisica,Porteirinha,MG,8.15
+20260413,Debora Moreira Andrade,29,Direito,Januaria,SP,7.15
+20260414,Tatiana Medeiros Souza,27,Quimica,Pirapora,MG,8.27
+20260415,Guilherme Pinto Almeida Monteiro,21,Administracao,Lavras,RJ,9.73
+20260416,Matheus Medeiros Lopes,48,Engenharia de Software,Salinas,RJ,9.42
+20260417,Rodrigo Medeiros Moura Medeiros,27,Engenharia Eletrica,Juiz de Fora,BA,9.65
+20260418,Olivia Martins,26,Ciencia da Computacao,Uberlandia,MG,9.84
+20260419,Juliana Castro Soares,38,Quimica,Salinas,MG,6.9
+20260420,Alexandre Fernandes Moura,47,Ciencia da Computacao,Governador Valadares,ES,7.56
+20260421,Guilherme Gomes Gomes,54,Matematica,Curvelo,DF,9.73
+20260422,Gabriel Medeiros,24,Engenharia de Software,Ouro Preto,SP,9.3
+20260423,Natalia Medeiros Castro,48,Ciencia da Computacao,Teofilo Otoni,SP,6.97
+20260424,Flavia Oliveira Nunes,39,Quimica,Diamantina,MG,8.65
+20260425,Debora Santos Dias Barbosa,37,Engenharia de Software,Vicosa,DF,8.41
+20260426,Pedro Lima,37,Quimica,Juiz de Fora,DF,9.05
+20260427,Guilherme Castro Ferreira,30,Direito,Belo Horizonte,DF,7.0
+20260428,Camila Andrade Souza,50,Sistemas de Informacao,Salinas,SP,8.48
+20260429,Camila Medeiros Santos,29,Analise e Desenvolvimento de Sistemas,Belo Horizonte,DF,5.28
+20260430,Daniela Andrade,30,Engenharia de Software,Sao Francisco,DF,7.27
+20260431,Helena Santos Lopes,41,Direito,Governador Valadares,RJ,5.87
+20260432,Amanda Monteiro Nascimento Nascimento,28,Engenharia de Software,Salinas,SP,5.13
+20260433,Thiago Carvalho,32,Fisica,Diamantina,GO,6.01
+20260434,Rodrigo Santos Silva,48,Sistemas de Informacao,Teofilo Otoni,ES,8.92
+20260435,Gustavo Barbosa Fernandes,45,Administracao,Sao Francisco,RJ,6.23
+20260436,Camila Brito Nunes,55,Engenharia Eletrica,Montes Claros,ES,9.9
+20260437,Debora Monteiro Castro Castro,36,Engenharia de Software,Pirapora,RJ,5.31
+20260438,Alexandre Fernandes Soares Barbosa,30,Sistemas de Informacao,Lavras,DF,6.18
+20260439,Gustavo Nunes,38,Fisica,Almenara,GO,5.12
+20260440,Vinicius Soares Marques,43,Administracao,Januaria,ES,8.47
+20260441,Nicolas Dias Almeida,52,Fisica,Vicosa,GO,6.76
+20260442,Lucas Monteiro Ribeiro,36,Engenharia Eletrica,Vicosa,BA,8.63
+20260443,Leticia Ribeiro Dias Ferreira,32,Medicina,Diamantina,GO,9.27
+20260444,Beatriz Andrade Soares,55,Engenharia de Software,Juiz de Fora,DF,5.58
+20260445,Amanda Pinto,22,Direito,Belo Horizonte,ES,5.59
+20260446,Camila Barbosa Marques,21,Sistemas de Informacao,Almenara,BA,6.68
+20260447,Larissa Gomes Rocha Ribeiro,23,Direito,Janauba,GO,9.83
+20260448,Daniela Silva Mendes,35,Analise e Desenvolvimento de Sistemas,Teofilo Otoni,ES,8.75
+20260449,Fernanda Lima Brito,45,Fisica,Uberlandia,RJ,7.1
+20260450,Ana Oliveira Cavalcanti,30,Quimica,Sao Francisco,MG,9.37
+20260451,Camila Martins Santos Silva,33,Analise e Desenvolvimento de Sistemas,Sao Francisco,SP,5.63
+20260452,Amanda Barbosa Costa,22,Ciencia da Computacao,Brasilia de Minas,SP,7.23
+20260453,Camila Dias Machado,26,Medicina,Vicosa,SP,8.68
+20260454,Flavia Santos,32,Analise e Desenvolvimento de Sistemas,Almenara,BA,8.6
+20260455,Lucas Pereira Andrade,20,Administracao,Porteirinha,DF,7.62
+20260456,Daniela Alves,19,Ciencia da Computacao,Pirapora,RJ,7.18
+20260457,Samuel Cardoso,27,Analise e Desenvolvimento de Sistemas,Montes Claros,SP,7.06
+20260458,Camila Fernandes,26,Administracao,Pirapora,ES,8.52
+20260459,Helena Alves,49,Analise e Desenvolvimento de Sistemas,Governador Valadares,BA,8.81
+20260460,Nicolas Nascimento Marques Vieira,28,Ciencia da Computacao,Ouro Preto,RJ,9.46
+20260461,Matheus Dias Lopes,18,Ciencia da Computacao,Salinas,MG,9.09
+20260462,Juliana Ferreira Teixeira,22,Quimica,Pirapora,SP,8.16
+20260463,Vinicius Soares Freitas,21,Engenharia Eletrica,Teofilo Otoni,DF,5.19
+20260464,Alexandre Machado Pereira,24,Ciencia da Computacao,Montes Claros,DF,5.68
+20260465,Beatriz Nascimento Mendes,35,Quimica,Salinas,SP,8.99
+20260466,Flavia Nunes,47,Engenharia de Software,Coronel Fabriciano,GO,9.17
+20260467,Lucas Pereira Lima Souza,28,Engenharia Eletrica,Uberlandia,ES,7.37
+20260468,Joao Ribeiro Brito,42,Medicina,Governador Valadares,MG,9.23
+20260469,Igor Cardoso Ramos Pereira,44,Direito,Januaria,MG,6.28
+20260470,Camila Medeiros Medeiros,32,Fisica,Janauba,ES,7.56
+20260471,Gabriel Machado Lopes Cardoso,40,Fisica,Coronel Fabriciano,BA,9.11
+20260472,Luana Souza Silva,28,Agronomia,Vicosa,DF,7.43
+20260473,Natalia Rocha,33,Medicina,Porteirinha,MG,7.48
+20260474,Enzo Nunes Lopes,23,Direito,Juiz de Fora,DF,7.81
+20260475,Natalia Mendes,38,Engenharia Eletrica,Vicosa,GO,8.2
+20260476,Guilherme Oliveira,53,Agronomia,Montes Claros,DF,5.45
+20260477,Luana Barbosa Teixeira,53,Analise e Desenvolvimento de Sistemas,Juiz de Fora,SP,6.78
+20260478,Pedro Freitas,39,Agronomia,Governador Valadares,ES,7.32
+20260479,Joao Pereira Alves,32,Ciencia da Computacao,Janauba,SP,9.07
+20260480,Vinicius Monteiro Moura Andrade,24,Ciencia da Computacao,Teofilo Otoni,RJ,5.69
+20260481,Guilherme Alves Soares Brito,30,Analise e Desenvolvimento de Sistemas,Pirapora,DF,6.93
+20260482,Nicolas Dias Alves,44,Ciencia da Computacao,Curvelo,MG,8.78
+20260483,Amanda Teixeira Lima,49,Ciencia da Computacao,Lavras,GO,5.24
+20260484,Amanda Cardoso Teixeira Ribeiro,55,Sistemas de Informacao,Almenara,MG,6.9
+20260485,Alexandre Teixeira Moreira,44,Matematica,Diamantina,SP,6.95
+20260486,Vinicius Mendes Lima,26,Administracao,Governador Valadares,GO,9.34
+20260487,Leticia Rocha Monteiro,31,Analise e Desenvolvimento de Sistemas,Belo Horizonte,ES,8.5
+20260488,Igor Ribeiro Teixeira,52,Quimica,Janauba,GO,5.57
+20260489,Matheus Pinto Medeiros,44,Fisica,Ouro Preto,SP,9.3
+20260490,Ana Moura Alves,19,Administracao,Almenara,MG,8.28
+20260491,Lucas Vieira,34,Sistemas de Informacao,Januaria,GO,8.84
+20260492,Felipe Oliveira Nascimento,46,Engenharia Eletrica,Governador Valadares,DF,8.31
+20260493,Pedro Monteiro Moreira,33,Agronomia,Brasilia de Minas,GO,8.26
+20260494,Enzo Marques Rocha Monteiro,21,Ciencia da Computacao,Porteirinha,BA,8.04
+20260495,Joao Almeida Andrade Pinto,52,Quimica,Governador Valadares,BA,8.8
+20260496,Vinicius Mendes Ribeiro Rodrigues,29,Sistemas de Informacao,Lavras,MG,6.85
+20260497,Leticia Soares Lima,28,Matematica,Porteirinha,MG,6.62
+20260498,Juliana Oliveira Gomes Rocha,21,Fisica,Governador Valadares,DF,8.24
+20260499,Thiago Monteiro Nascimento,22,Quimica,Janauba,ES,6.08
+20260500,Eduardo Teixeira,28,Administracao,Ouro Preto,ES,6.98
+20260501,Olivia Dias Dias,41,Engenharia de Software,Belo Horizonte,DF,8.03
+20260502,Leticia Silva Pereira,40,Direito,Diamantina,GO,8.01
+20260503,Carlos Rocha Moreira,25,Administracao,Porteirinha,ES,8.55
+20260504,Camila Andrade,50,Agronomia,Juiz de Fora,RJ,5.21
+20260505,Nicolas Rocha Teixeira Ferreira,24,Sistemas de Informacao,Ouro Preto,ES,5.04
+20260506,Olivia Machado,24,Analise e Desenvolvimento de Sistemas,Ouro Preto,DF,8.44
+20260507,Isabela Rodrigues Gomes Santos,47,Quimica,Janauba,MG,5.43
+20260508,Samuel Monteiro,22,Matematica,Diamantina,SP,7.0
+20260509,Flavia Machado Rocha,19,Administracao,Pirapora,ES,5.03
+20260510,Eduardo Pinto Oliveira Rodrigues,40,Agronomia,Pirapora,SP,8.86
+20260511,Fernanda Vieira Mendes,42,Administracao,Montes Claros,RJ,5.77
+20260512,Flavia Cavalcanti Vieira,27,Engenharia de Software,Sao Francisco,MG,7.71
+20260513,Helena Oliveira Silva,54,Matematica,Coronel Fabriciano,ES,7.68
+20260514,Olivia Nascimento,31,Administracao,Lavras,BA,5.79
+20260515,Samuel Martins Pereira,29,Fisica,Curvelo,DF,5.27
+20260516,Leticia Freitas Monteiro Rodrigues,36,Fisica,Salinas,SP,5.48
+20260517,Natalia Dias Nascimento Lima,33,Engenharia Eletrica,Brasilia de Minas,ES,5.34
+20260518,Natalia Mendes,39,Matematica,Brasilia de Minas,GO,7.86
+20260519,Debora Rocha Machado,28,Ciencia da Computacao,Janauba,BA,8.85
+20260520,Isabela Fernandes Andrade Lima,39,Direito,Juiz de Fora,RJ,6.76
+20260521,Leticia Alves Ribeiro,23,Engenharia de Software,Almenara,ES,5.96
+20260522,Eduardo Rodrigues Santos Teixeira,19,Matematica,Curvelo,RJ,8.77
+20260523,Carlos Monteiro Soares,52,Agronomia,Vicosa,GO,8.8
+20260524,Pedro Pinto Vieira,26,Direito,Lavras,ES,5.44
+20260525,Ana Lopes Brito,28,Agronomia,Almenara,RJ,5.78
+20260526,Thiago Gomes Cardoso,40,Ciencia da Computacao,Diamantina,DF,7.39
+20260527,Debora Almeida,20,Fisica,Belo Horizonte,ES,9.45
+20260528,Matheus Freitas Oliveira,20,Fisica,Janauba,MG,8.45
+20260529,Tatiana Soares Pinto,52,Matematica,Teofilo Otoni,RJ,8.2
+20260530,Eduardo Moura Soares,42,Analise e Desenvolvimento de Sistemas,Lavras,RJ,6.73
+20260531,Natalia Cardoso Castro Silva,50,Sistemas de Informacao,Juiz de Fora,BA,6.13
+20260532,Tatiana Carvalho Gomes,29,Sistemas de Informacao,Sao Francisco,ES,8.51
+20260533,Pedro Marques,39,Quimica,Pirapora,RJ,8.31
+20260534,Amanda Costa Marques,19,Analise e Desenvolvimento de Sistemas,Januaria,BA,7.81
+20260535,Rodrigo Oliveira,54,Sistemas de Informacao,Januaria,BA,6.27
+20260536,Flavia Castro,54,Fisica,Montes Claros,GO,8.57
+20260537,Fernanda Carvalho Mendes Castro,48,Direito,Teofilo Otoni,BA,9.07
+20260538,Amanda Ribeiro Brito,50,Engenharia de Software,Teofilo Otoni,GO,8.36
+20260539,Gustavo Pinto Rodrigues Almeida,42,Administracao,Almenara,MG,5.08
+20260540,Rodrigo Marques Gomes,24,Sistemas de Informacao,Vicosa,ES,7.94
+20260541,Felipe Teixeira Pereira Ferreira,48,Fisica,Almenara,ES,7.64
+20260542,Isabela Moura,44,Medicina,Januaria,GO,7.6
+20260543,Matheus Moreira Nascimento,55,Quimica,Curvelo,MG,7.08
+20260544,Pedro Ferreira Vieira,52,Administracao,Porteirinha,BA,5.03
+20260545,Ana Medeiros Moura Pereira,51,Ciencia da Computacao,Coronel Fabriciano,GO,6.01
+20260546,Guilherme Andrade Alves Gomes,45,Fisica,Curvelo,SP,6.28
+20260547,Thiago Andrade Brito,35,Fisica,Coronel Fabriciano,DF,6.0
+20260548,Leticia Cardoso Ribeiro,41,Agronomia,Ouro Preto,RJ,6.24
+20260549,Caio Nunes Lima,25,Quimica,Diamantina,RJ,8.84
+20260550,Gabriel Carvalho Teixeira Nunes,39,Agronomia,Governador Valadares,GO,8.35
+20260551,Enzo Silva,23,Sistemas de Informacao,Vicosa,ES,7.13
+20260552,Pedro Andrade,23,Matematica,Januaria,GO,6.88
+20260553,Luana Moura Vieira Castro,21,Sistemas de Informacao,Vicosa,RJ,5.05
+20260554,Camila Vieira Martins Oliveira,50,Agronomia,Diamantina,ES,5.83
+20260555,Rafaela Silva,28,Engenharia Eletrica,Porteirinha,DF,6.96
+20260556,Flavia Pinto Martins,51,Ciencia da Computacao,Salinas,MG,7.69
+20260557,Leticia Pinto Nascimento Nascimento,35,Analise e Desenvolvimento de Sistemas,Governador Valadares,BA,7.23
+20260558,Ana Soares Ribeiro,44,Agronomia,Pirapora,ES,5.35
+20260559,Helena Teixeira Soares,52,Matematica,Porteirinha,GO,7.17
+20260560,Matheus Lopes Dias,47,Fisica,Juiz de Fora,ES,9.22
+20260561,Samuel Rodrigues Moreira,32,Fisica,Diamantina,DF,6.55
+20260562,Camila Cavalcanti Silva Soares,33,Engenharia de Software,Salinas,RJ,8.3
+20260563,Eduardo Monteiro Ribeiro Cardoso,38,Medicina,Belo Horizonte,ES,6.32
+20260564,Nicolas Ramos Martins Lopes,33,Engenharia de Software,Belo Horizonte,BA,5.99
+20260565,Luana Nascimento Gomes,24,Engenharia Eletrica,Salinas,GO,9.68
+20260566,Ana Cavalcanti Oliveira,48,Medicina,Governador Valadares,SP,7.41
+20260567,Thiago Fernandes Ramos Ribeiro,50,Engenharia de Software,Coronel Fabriciano,BA,8.68
+20260568,Camila Machado,48,Agronomia,Januaria,ES,6.7
+20260569,Mariana Freitas Pereira Moura,47,Medicina,Montes Claros,MG,8.3
+20260570,Gabriel Rocha Andrade,34,Sistemas de Informacao,Ouro Preto,SP,6.16
+20260571,Luana Dias Andrade,29,Direito,Uberlandia,BA,7.05
+20260572,Debora Nunes Fernandes Mendes,29,Matematica,Almenara,ES,8.36
+20260573,Tatiana Lopes Monteiro Machado,42,Analise e Desenvolvimento de Sistemas,Almenara,DF,9.7
+20260574,Ana Ribeiro,44,Direito,Almenara,DF,8.09
+20260575,Alexandre Ramos Barbosa,34,Agronomia,Curvelo,MG,6.95
+20260576,Daniela Carvalho Soares,48,Fisica,Pirapora,RJ,8.65
+20260577,Debora Monteiro Monteiro,34,Medicina,Montes Claros,RJ,5.59
+20260578,Gustavo Martins Medeiros Medeiros,52,Sistemas de Informacao,Brasilia de Minas,SP,6.59
+20260579,Joao Ferreira Moreira,36,Direito,Almenara,DF,5.82
+20260580,Beatriz Marques Brito Medeiros,43,Engenharia Eletrica,Salinas,BA,6.68
+20260581,Vinicius Fernandes Castro,43,Engenharia de Software,Juiz de Fora,DF,9.23
+20260582,Amanda Moura Mendes,44,Sistemas de Informacao,Teofilo Otoni,DF,5.11
+20260583,Samuel Ferreira Carvalho Costa,43,Engenharia Eletrica,Pirapora,MG,9.59
+20260584,Daniela Santos Nunes,51,Engenharia Eletrica,Pirapora,SP,8.03
+20260585,Enzo Barbosa,32,Analise e Desenvolvimento de Sistemas,Brasilia de Minas,RJ,8.07
+20260586,Lucas Santos,20,Fisica,Sao Francisco,DF,9.48
+20260587,Larissa Cavalcanti Fernandes Monteiro,46,Sistemas de Informacao,Ouro Preto,BA,7.9
+20260588,Thiago Machado Moura,52,Engenharia de Software,Sao Francisco,RJ,7.64
+20260589,Joao Barbosa Andrade Marques,34,Sistemas de Informacao,Brasilia de Minas,MG,5.0
+20260590,Igor Nascimento Vieira Cardoso,52,Ciencia da Computacao,Vicosa,DF,7.34
+20260591,Isabela Vieira,32,Ciencia da Computacao,Ouro Preto,SP,5.92
+20260592,Isabela Nunes Lopes Costa,42,Administracao,Diamantina,SP,5.39
+20260593,Camila Brito Fernandes,36,Fisica,Ouro Preto,DF,6.32
+20260594,Eduardo Ribeiro,26,Engenharia de Software,Pirapora,GO,7.23
+20260595,Luana Ramos Martins,38,Ciencia da Computacao,Almenara,MG,9.75
+20260596,Gabriel Vieira,35,Sistemas de Informacao,Juiz de Fora,GO,5.04
+20260597,Ana Ramos,31,Medicina,Uberlandia,SP,8.85
+20260598,Debora Freitas Oliveira,39,Engenharia Eletrica,Almenara,MG,6.31
+20260599,Felipe Cardoso Ribeiro,30,Engenharia de Software,Coronel Fabriciano,DF,5.06
+20260600,Rafaela Moreira Mendes Lopes,20,Analise e Desenvolvimento de Sistemas,Juiz de Fora,GO,8.78
+20260601,Olivia Cardoso Moreira,37,Medicina,Teofilo Otoni,GO,8.57
+20260602,Leticia Moura Pereira Soares,48,Fisica,Brasilia de Minas,BA,6.77
+20260603,Olivia Pereira,33,Fisica,Uberlandia,SP,5.07
+20260604,Amanda Pereira Nunes Lopes,18,Ciencia da Computacao,Curvelo,DF,8.38
+20260605,Juliana Andrade Ferreira,33,Sistemas de Informacao,Vicosa,MG,8.36
+20260606,Daniela Souza Nascimento,27,Quimica,Ouro Preto,DF,5.53
+20260607,Alexandre Monteiro Nascimento,46,Quimica,Belo Horizonte,MG,8.38
+20260608,Igor Soares Oliveira,49,Quimica,Juiz de Fora,ES,6.44
+20260609,Nicolas Medeiros Ribeiro,52,Medicina,Janauba,GO,7.3
+20260610,Gustavo Monteiro Costa Rodrigues,51,Sistemas de Informacao,Juiz de Fora,SP,9.02
+20260611,Larissa Silva Teixeira,42,Quimica,Teofilo Otoni,MG,8.04
+20260612,Luana Lopes Rocha,22,Fisica,Ouro Preto,DF,6.9
+20260613,Natalia Monteiro Gomes,36,Medicina,Uberlandia,GO,6.58
+20260614,Eduardo Oliveira,26,Sistemas de Informacao,Januaria,BA,5.52
+20260615,Carlos Medeiros,42,Fisica,Vicosa,ES,8.06
+20260616,Daniela Andrade Almeida,22,Ciencia da Computacao,Belo Horizonte,GO,7.41
+20260617,Fernanda Freitas Souza Andrade,53,Quimica,Uberlandia,DF,6.81
+20260618,Luana Fernandes Moura Oliveira,22,Engenharia de Software,Salinas,BA,9.71
+20260619,Pedro Cavalcanti,42,Analise e Desenvolvimento de Sistemas,Belo Horizonte,ES,8.22
+20260620,Mariana Monteiro Monteiro,44,Quimica,Pirapora,DF,8.13
+20260621,Larissa Machado Alves,28,Sistemas de Informacao,Ouro Preto,RJ,7.47
+20260622,Felipe Castro Mendes,40,Medicina,Ouro Preto,SP,9.14
+20260623,Isabela Rocha Castro,33,Matematica,Ouro Preto,BA,6.84
+20260624,Samuel Andrade Mendes,46,Administracao,Montes Claros,GO,5.17
+20260625,Bruno Moura Lima,37,Ciencia da Computacao,Brasilia de Minas,BA,6.05
+20260626,Tatiana Monteiro Teixeira,53,Matematica,Curvelo,BA,5.46
+20260627,Juliana Lima Soares,41,Matematica,Diamantina,BA,6.26
+20260628,Thiago Nunes Medeiros,31,Quimica,Salinas,GO,6.59
+20260629,Natalia Medeiros Alves,37,Ciencia da Computacao,Curvelo,RJ,5.38
+20260630,Beatriz Nascimento,45,Administracao,Pirapora,DF,8.77
+20260631,Gustavo Silva Moreira Souza,37,Agronomia,Januaria,SP,7.65
+20260632,Rodrigo Almeida,27,Ciencia da Computacao,Coronel Fabriciano,RJ,8.69
+20260633,Fernanda Almeida Machado,36,Administracao,Almenara,BA,6.65
+20260634,Daniela Monteiro Nunes,34,Engenharia Eletrica,Coronel Fabriciano,ES,7.13
+20260635,Igor Cardoso Monteiro,30,Direito,Coronel Fabriciano,GO,7.8
+20260636,Camila Lopes Lopes,22,Engenharia de Software,Uberlandia,SP,8.36
+20260637,Helena Marques Machado,41,Medicina,Belo Horizonte,SP,6.69
+20260638,Yasmin Costa Nascimento,46,Matematica,Almenara,RJ,5.22
+20260639,Nicolas Andrade Gomes Ferreira,25,Quimica,Januaria,BA,9.65
+20260640,Vinicius Silva Dias Pereira,37,Direito,Vicosa,MG,6.63
+20260641,Olivia Carvalho Cavalcanti Moura,34,Agronomia,Vicosa,ES,8.58
+20260642,Bruno Moreira,55,Fisica,Lavras,MG,6.25
+20260643,Nicolas Brito,35,Ciencia da Computacao,Juiz de Fora,GO,9.63
+20260644,Tatiana Andrade,24,Ciencia da Computacao,Brasilia de Minas,DF,9.33
+20260645,Enzo Teixeira Alves,38,Direito,Governador Valadares,ES,5.43
+20260646,Larissa Monteiro,19,Ciencia da Computacao,Diamantina,ES,6.49
+20260647,Lucas Santos Nascimento,40,Medicina,Brasilia de Minas,BA,9.88
+20260648,Tatiana Souza Soares Moreira,19,Agronomia,Porteirinha,BA,5.74
+20260649,Igor Ferreira Moreira Moura,32,Administracao,Diamantina,ES,5.75
+20260650,Gustavo Dias Mendes Cavalcanti,26,Analise e Desenvolvimento de Sistemas,Almenara,ES,7.65
+20260651,Igor Barbosa Moura Lima,45,Sistemas de Informacao,Curvelo,BA,6.56
+20260652,Helena Ribeiro Rocha,27,Quimica,Montes Claros,DF,6.56
+20260653,Guilherme Barbosa Mendes Fernandes,27,Analise e Desenvolvimento de Sistemas,Pirapora,BA,5.91
+20260654,Luana Brito Fernandes Castro,54,Matematica,Diamantina,ES,6.14
+20260655,Caio Ferreira Cardoso,26,Agronomia,Governador Valadares,RJ,8.49
+20260656,Enzo Ramos Cardoso,26,Sistemas de Informacao,Belo Horizonte,BA,5.16
+20260657,Ana Fernandes Marques Almeida,30,Analise e Desenvolvimento de Sistemas,Salinas,BA,9.54
+20260658,Luana Ramos Rocha Freitas,33,Administracao,Coronel Fabriciano,DF,5.2
+20260659,Enzo Rocha Nunes Brito,54,Matematica,Ouro Preto,ES,8.14
+20260660,Carlos Moura Alves Mendes,47,Ciencia da Computacao,Diamantina,ES,7.64
+20260661,Carlos Monteiro Moreira Moura,21,Analise e Desenvolvimento de Sistemas,Brasilia de Minas,RJ,6.95
+20260662,Vinicius Freitas Costa,45,Engenharia de Software,Governador Valadares,MG,8.38
+20260663,Larissa Mendes Ferreira Teixeira,25,Sistemas de Informacao,Curvelo,GO,7.68
+20260664,Alexandre Mendes Santos,29,Direito,Curvelo,GO,9.39
+20260665,Fernanda Soares Rocha Costa,25,Engenharia Eletrica,Pirapora,GO,7.2
+20260666,Camila Moreira Teixeira,28,Administracao,Ouro Preto,RJ,5.22
+20260667,Beatriz Medeiros,27,Sistemas de Informacao,Almenara,BA,8.77
+20260668,Yasmin Barbosa,46,Engenharia de Software,Teofilo Otoni,MG,9.4
+20260669,Ana Brito Soares Silva,47,Direito,Vicosa,ES,8.96
+20260670,Natalia Lopes Carvalho,55,Fisica,Vicosa,RJ,7.01
+20260671,Gustavo Silva,33,Agronomia,Porteirinha,ES,8.08
+20260672,Olivia Souza Ribeiro Gomes,21,Fisica,Sao Francisco,MG,5.71
+20260673,Thiago Castro,37,Medicina,Salinas,MG,5.53
+20260674,Lucas Vieira Brito Castro,54,Agronomia,Teofilo Otoni,RJ,8.67
+20260675,Carlos Ferreira Barbosa,38,Medicina,Coronel Fabriciano,DF,5.33
+20260676,Leticia Rodrigues Vieira,48,Sistemas de Informacao,Pirapora,GO,9.21
+20260677,Guilherme Moura Carvalho,31,Matematica,Januaria,MG,7.8
+20260678,Camila Ferreira Cardoso Castro,36,Administracao,Governador Valadares,DF,6.55
+20260679,Luana Nascimento Lima,54,Direito,Lavras,GO,8.1
+20260680,Mariana Brito Almeida,36,Analise e Desenvolvimento de Sistemas,Montes Claros,MG,5.12
+20260681,Helena Carvalho Brito,44,Administracao,Januaria,SP,6.71
+20260682,Olivia Silva Martins Vieira,34,Engenharia Eletrica,Brasilia de Minas,SP,7.48
+20260683,Ana Pereira Dias,39,Administracao,Curvelo,ES,9.7
+20260684,Nicolas Dias Dias Cardoso,48,Ciencia da Computacao,Almenara,RJ,5.76
+20260685,Felipe Dias Freitas,44,Quimica,Januaria,DF,7.55
+20260686,Alexandre Monteiro Cavalcanti,19,Analise e Desenvolvimento de Sistemas,Curvelo,GO,6.63
+20260687,Caio Rodrigues Gomes Fernandes,19,Medicina,Coronel Fabriciano,GO,7.62
+20260688,Gustavo Moreira,29,Matematica,Pirapora,DF,8.83
+20260689,Alexandre Oliveira Fernandes,44,Engenharia Eletrica,Vicosa,BA,6.82
+20260690,Yasmin Carvalho Moura Barbosa,29,Engenharia Eletrica,Sao Francisco,DF,5.18
+20260691,Fernanda Mendes Teixeira,19,Direito,Lavras,BA,5.93
+20260692,Camila Barbosa Rocha Gomes,24,Agronomia,Almenara,BA,8.55
+20260693,Camila Pereira Silva,37,Ciencia da Computacao,Governador Valadares,DF,5.43
+20260694,Carlos Alves Moura,37,Ciencia da Computacao,Curvelo,DF,6.53
+20260695,Alexandre Martins Martins Vieira,35,Agronomia,Janauba,DF,7.16
+20260696,Juliana Costa,35,Engenharia Eletrica,Montes Claros,ES,7.74
+20260697,Felipe Nascimento,53,Medicina,Porteirinha,BA,9.62
+20260698,Thiago Lopes Costa Rodrigues,37,Matematica,Janauba,ES,7.17
+20260699,Matheus Souza,24,Administracao,Januaria,MG,7.09
+20260700,Gustavo Pinto,46,Matematica,Sao Francisco,SP,6.63
+20260701,Felipe Ferreira,47,Matematica,Almenara,MG,8.98
+20260702,Larissa Alves Freitas Barbosa,47,Direito,Diamantina,BA,5.7
+20260703,Samuel Andrade Nunes Ribeiro,39,Medicina,Juiz de Fora,RJ,5.15
+20260704,Caio Cardoso Freitas,28,Engenharia de Software,Sao Francisco,ES,7.82
+20260705,Flavia Alves Rocha,53,Fisica,Salinas,DF,6.48
+20260706,Amanda Marques Lopes,33,Agronomia,Teofilo Otoni,RJ,6.88
+20260707,Amanda Machado Machado,54,Medicina,Ouro Preto,GO,6.16
+20260708,Eduardo Medeiros Ramos,25,Matematica,Governador Valadares,RJ,6.59
+20260709,Joao Ribeiro,37,Administracao,Salinas,ES,5.53
+20260710,Enzo Rocha Ramos Souza,23,Analise e Desenvolvimento de Sistemas,Almenara,ES,9.43
+20260711,Ana Gomes Gomes,46,Agronomia,Brasilia de Minas,RJ,8.02
+20260712,Olivia Rocha Barbosa,54,Fisica,Brasilia de Minas,RJ,8.52
+20260713,Fernanda Pinto Silva Brito,50,Administracao,Almenara,DF,6.44
+20260714,Leticia Souza Silva,53,Medicina,Pirapora,DF,6.38
+20260715,Isabela Pinto,43,Fisica,Janauba,GO,6.88
+20260716,Felipe Carvalho Ribeiro,48,Sistemas de Informacao,Belo Horizonte,ES,6.88
+20260717,Guilherme Gomes Vieira Lima,26,Ciencia da Computacao,Salinas,GO,5.08
+20260718,Natalia Machado Lima Ferreira,26,Fisica,Uberlandia,DF,7.23
+20260719,Gustavo Machado Brito Ribeiro,47,Agronomia,Uberlandia,ES,9.02
+20260720,Pedro Ribeiro Machado,18,Matematica,Vicosa,DF,8.58
+20260721,Tatiana Marques Cavalcanti Medeiros,41,Ciencia da Computacao,Januaria,ES,7.37
+20260722,Amanda Cardoso Ferreira,27,Quimica,Lavras,DF,9.82
+20260723,Larissa Moura Ferreira Moura,23,Analise e Desenvolvimento de Sistemas,Vicosa,GO,8.63
+20260724,Eduardo Cavalcanti Pinto Barbosa,21,Medicina,Ouro Preto,DF,5.05
+20260725,Matheus Medeiros Dias,44,Medicina,Brasilia de Minas,SP,5.82
+20260726,Gustavo Barbosa Medeiros,34,Ciencia da Computacao,Vicosa,ES,5.83
+20260727,Vinicius Brito,19,Engenharia de Software,Vicosa,MG,5.62
+20260728,Tatiana Soares,26,Matematica,Porteirinha,SP,9.2
+20260729,Helena Castro,29,Matematica,Almenara,GO,7.19
+20260730,Samuel Lopes Ramos Ribeiro,51,Ciencia da Computacao,Janauba,MG,9.74
+20260731,Juliana Ramos Marques,42,Analise e Desenvolvimento de Sistemas,Juiz de Fora,GO,8.12
+20260732,Caio Souza Soares,25,Ciencia da Computacao,Teofilo Otoni,RJ,6.95
+20260733,Felipe Almeida Moreira,42,Direito,Porteirinha,BA,7.6
+20260734,Vinicius Mendes Moreira,38,Agronomia,Januaria,MG,9.5
+20260735,Isabela Brito Fernandes,39,Engenharia de Software,Porteirinha,DF,5.48
+20260736,Flavia Freitas Lopes,55,Analise e Desenvolvimento de Sistemas,Lavras,SP,8.32
+20260737,Alexandre Monteiro Silva Silva,22,Ciencia da Computacao,Uberlandia,MG,7.57
+20260738,Caio Almeida Vieira,34,Analise e Desenvolvimento de Sistemas,Januaria,MG,8.04
+20260739,Gustavo Carvalho,25,Quimica,Pirapora,MG,9.2
+20260740,Thiago Ribeiro,25,Quimica,Teofilo Otoni,SP,6.44
+20260741,Eduardo Freitas Fernandes,45,Quimica,Janauba,SP,5.79
+20260742,Daniela Moreira,42,Medicina,Januaria,SP,9.68
+20260743,Joao Rodrigues Ramos,30,Matematica,Coronel Fabriciano,BA,8.16
+20260744,Felipe Machado,31,Matematica,Pirapora,RJ,8.51
+20260745,Eduardo Rodrigues,54,Quimica,Porteirinha,DF,7.18
+20260746,Juliana Silva Oliveira Moreira,35,Sistemas de Informacao,Janauba,RJ,7.82
+20260747,Natalia Cardoso Machado,43,Quimica,Salinas,ES,6.11
+20260748,Matheus Pereira Medeiros,52,Medicina,Janauba,GO,6.48
+20260749,Fernanda Andrade,52,Medicina,Salinas,DF,7.25
+20260750,Nicolas Ribeiro Monteiro Oliveira,42,Fisica,Belo Horizonte,SP,8.41
+20260751,Caio Ramos Ferreira Mendes,30,Sistemas de Informacao,Januaria,BA,5.12
+20260752,Rafaela Ramos Moreira Rodrigues,52,Fisica,Brasilia de Minas,RJ,7.62
+20260753,Joao Santos Oliveira Dias,21,Medicina,Januaria,RJ,5.58
+20260754,Camila Freitas Cavalcanti Gomes,55,Analise e Desenvolvimento de Sistemas,Salinas,MG,8.6
+20260755,Bruno Cardoso Brito,20,Analise e Desenvolvimento de Sistemas,Almenara,MG,5.84
+20260756,Yasmin Alves,47,Matematica,Teofilo Otoni,DF,7.9
+20260757,Gabriel Pereira Ramos Castro,32,Engenharia Eletrica,Belo Horizonte,RJ,6.65
+20260758,Flavia Rocha Pereira Medeiros,52,Sistemas de Informacao,Janauba,DF,9.73
+20260759,Carlos Pinto Ribeiro,39,Engenharia Eletrica,Pirapora,SP,5.69
+20260760,Debora Monteiro Costa,46,Analise e Desenvolvimento de Sistemas,Curvelo,MG,5.65
+20260761,Luana Moreira Costa Santos,49,Engenharia Eletrica,Montes Claros,MG,5.88
+20260762,Amanda Vieira,44,Quimica,Vicosa,GO,5.62
+20260763,Tatiana Moura,46,Administracao,Diamantina,BA,7.99
+20260764,Mariana Ramos,23,Fisica,Brasilia de Minas,SP,7.05
+20260765,Nicolas Pereira Moura,24,Matematica,Sao Francisco,DF,8.73
+20260766,Pedro Freitas Carvalho,35,Ciencia da Computacao,Belo Horizonte,MG,8.9
+20260767,Matheus Ramos Ribeiro,28,Fisica,Januaria,MG,8.16
+20260768,Isabela Soares Dias,47,Ciencia da Computacao,Pirapora,GO,5.26
+20260769,Lucas Santos Ramos,50,Engenharia Eletrica,Salinas,BA,8.53
+20260770,Alexandre Marques Martins,38,Analise e Desenvolvimento de Sistemas,Pirapora,SP,6.12
+20260771,Guilherme Martins Moreira,32,Engenharia Eletrica,Vicosa,ES,7.37
+20260772,Juliana Carvalho Brito Freitas,29,Administracao,Sao Francisco,BA,7.24
+20260773,Caio Fernandes,30,Medicina,Almenara,MG,8.39
+20260774,Igor Pereira,47,Direito,Uberlandia,BA,8.73
+20260775,Vinicius Castro Costa,28,Matematica,Ouro Preto,DF,6.13
+20260776,Camila Ramos Carvalho,55,Direito,Juiz de Fora,SP,5.07
+20260777,Rafaela Lopes Rocha,45,Matematica,Diamantina,ES,9.64
+20260778,Ana Marques Oliveira Oliveira,48,Quimica,Lavras,MG,7.09
+20260779,Gabriel Mendes Ramos,33,Engenharia Eletrica,Ouro Preto,DF,5.06
+20260780,Olivia Lima Nascimento Vieira,33,Fisica,Salinas,MG,7.35
+20260781,Larissa Medeiros Pinto,19,Direito,Juiz de Fora,DF,5.68
+20260782,Mariana Andrade Freitas Silva,22,Administracao,Janauba,ES,5.16
+20260783,Tatiana Brito Cavalcanti,54,Analise e Desenvolvimento de Sistemas,Salinas,ES,9.32
+20260784,Daniela Teixeira Andrade Souza,25,Administracao,Sao Francisco,RJ,8.03
+20260785,Mariana Monteiro Rodrigues,53,Quimica,Belo Horizonte,BA,9.81
+20260786,Helena Cardoso Pinto,31,Quimica,Diamantina,SP,6.73
+20260787,Isabela Fernandes Souza,22,Medicina,Sao Francisco,RJ,7.38
+20260788,Helena Cardoso Cavalcanti,52,Engenharia de Software,Juiz de Fora,ES,6.8
+20260789,Eduardo Martins Freitas,23,Engenharia Eletrica,Coronel Fabriciano,BA,6.41
+20260790,Gabriel Costa Fernandes Pereira,27,Direito,Almenara,DF,6.0
+20260791,Bruno Vieira Marques Cavalcanti,26,Direito,Sao Francisco,RJ,7.17
+20260792,Vinicius Martins Rodrigues,19,Analise e Desenvolvimento de Sistemas,Lavras,GO,6.65
+20260793,Alexandre Ramos Pinto,51,Agronomia,Juiz de Fora,RJ,6.49
+20260794,Yasmin Costa,34,Analise e Desenvolvimento de Sistemas,Vicosa,SP,9.76
+20260795,Daniela Gomes Nascimento Vieira,47,Sistemas de Informacao,Governador Valadares,BA,8.49
+20260796,Mariana Gomes Costa,33,Engenharia Eletrica,Januaria,SP,7.82
+20260797,Debora Ribeiro Carvalho,53,Quimica,Januaria,GO,6.55
+20260798,Debora Mendes Cavalcanti,28,Agronomia,Brasilia de Minas,MG,9.51
+20260799,Natalia Gomes Freitas,38,Sistemas de Informacao,Montes Claros,GO,7.68
+20260800,Vinicius Cardoso Vieira,54,Fisica,Almenara,DF,7.77
+20260801,Joao Dias Pereira Cardoso,20,Sistemas de Informacao,Ouro Preto,MG,6.51
+20260802,Pedro Mendes Nascimento,23,Medicina,Januaria,ES,8.14
+20260803,Pedro Fernandes Martins,19,Engenharia Eletrica,Ouro Preto,DF,7.18
+20260804,Fernanda Teixeira Nunes,30,Direito,Janauba,ES,7.96
+20260805,Debora Nunes Gomes Machado,41,Administracao,Sao Francisco,MG,6.39
+20260806,Joao Monteiro Ferreira,31,Quimica,Juiz de Fora,GO,9.86
+20260807,Vinicius Costa Machado Marques,26,Matematica,Governador Valadares,MG,5.7
+20260808,Camila Dias Rodrigues,55,Administracao,Salinas,MG,7.01
+20260809,Guilherme Ribeiro Monteiro Freitas,54,Sistemas de Informacao,Belo Horizonte,BA,9.08
+20260810,Natalia Oliveira Barbosa,55,Engenharia de Software,Vicosa,ES,8.63
+20260811,Ana Gomes Soares,37,Fisica,Vicosa,MG,8.2
+20260812,Guilherme Ribeiro Ramos Lopes,19,Engenharia Eletrica,Porteirinha,RJ,9.87
+20260813,Debora Pinto,48,Matematica,Uberlandia,DF,6.26
+20260814,Helena Andrade Teixeira,54,Ciencia da Computacao,Porteirinha,BA,7.85
+20260815,Larissa Lima,40,Sistemas de Informacao,Januaria,SP,6.77
+20260816,Caio Souza Vieira,36,Agronomia,Salinas,ES,5.95
+20260817,Gabriel Castro Costa,52,Medicina,Janauba,DF,9.14
+20260818,Tatiana Andrade Alves Cavalcanti,55,Medicina,Almenara,MG,5.67
+20260819,Natalia Marques Dias,28,Engenharia Eletrica,Belo Horizonte,BA,7.47
+20260820,Leticia Brito Moura Cavalcanti,53,Quimica,Pirapora,RJ,7.26
+20260821,Igor Santos,48,Medicina,Brasilia de Minas,GO,6.78
+20260822,Gustavo Moura Dias Ribeiro,37,Ciencia da Computacao,Pirapora,BA,5.63
+20260823,Pedro Barbosa Lima,31,Sistemas de Informacao,Salinas,RJ,8.39
+20260824,Eduardo Santos Cardoso Machado,20,Analise e Desenvolvimento de Sistemas,Pirapora,MG,8.89
+20260825,Daniela Cardoso Pereira,34,Ciencia da Computacao,Salinas,SP,8.27
+20260826,Helena Castro Carvalho Pinto,30,Sistemas de Informacao,Sao Francisco,MG,5.44
+20260827,Tatiana Pinto Nascimento Nascimento,28,Agronomia,Governador Valadares,BA,7.47
+20260828,Amanda Silva,51,Analise e Desenvolvimento de Sistemas,Belo Horizonte,SP,5.84
+20260829,Ana Alves Carvalho Teixeira,48,Medicina,Curvelo,BA,7.15
+20260830,Mariana Nascimento Moreira Machado,31,Agronomia,Diamantina,RJ,5.55
+20260831,Helena Freitas Pereira Moura,26,Direito,Sao Francisco,GO,6.41
+20260832,Fernanda Rocha Ramos Pereira,42,Engenharia de Software,Juiz de Fora,ES,8.61
+20260833,Joao Almeida Monteiro,44,Engenharia de Software,Uberlandia,BA,9.2
+20260834,Matheus Andrade Ribeiro Silva,49,Fisica,Pirapora,RJ,7.15
+20260835,Fernanda Pereira Gomes,43,Administracao,Curvelo,MG,8.63
+20260836,Lucas Rodrigues Andrade Martins,39,Analise e Desenvolvimento de Sistemas,Governador Valadares,DF,9.85
+20260837,Isabela Ramos,35,Quimica,Curvelo,ES,6.34
+20260838,Flavia Nascimento Cardoso Castro,43,Direito,Lavras,SP,5.72
+20260839,Helena Soares Ramos,49,Analise e Desenvolvimento de Sistemas,Almenara,MG,5.49
+20260840,Eduardo Ramos,19,Sistemas de Informacao,Coronel Fabriciano,ES,8.33
+20260841,Luana Brito,24,Engenharia Eletrica,Lavras,DF,7.41
+20260842,Vinicius Ramos Ramos,50,Engenharia de Software,Ouro Preto,SP,8.97
+20260843,Bruno Oliveira Machado,25,Administracao,Juiz de Fora,SP,9.18
+20260844,Carlos Oliveira Ribeiro,53,Fisica,Brasilia de Minas,GO,5.8
+20260845,Yasmin Moreira Ramos,25,Matematica,Vicosa,GO,7.71
+20260846,Matheus Cardoso Monteiro,28,Agronomia,Januaria,RJ,6.29
+20260847,Enzo Brito Nascimento,36,Medicina,Januaria,MG,7.89
+20260848,Debora Nascimento,55,Ciencia da Computacao,Janauba,RJ,5.48
+20260849,Caio Marques Nascimento,21,Fisica,Diamantina,BA,6.15
+20260850,Fernanda Rodrigues Barbosa,25,Medicina,Teofilo Otoni,MG,7.64
+20260851,Isabela Medeiros,50,Administracao,Porteirinha,MG,8.41
+20260852,Alexandre Moreira Medeiros,42,Medicina,Curvelo,MG,8.96
+20260853,Olivia Dias,49,Agronomia,Janauba,BA,8.01
+20260854,Isabela Martins Ramos,22,Agronomia,Belo Horizonte,SP,6.3
+20260855,Thiago Nunes Almeida,23,Quimica,Curvelo,MG,7.9
+20260856,Thiago Moura Cardoso,45,Analise e Desenvolvimento de Sistemas,Sao Francisco,DF,5.38
+20260857,Rodrigo Barbosa Machado Cavalcanti,38,Analise e Desenvolvimento de Sistemas,Uberlandia,RJ,6.23
+20260858,Leticia Ribeiro Santos,51,Sistemas de Informacao,Curvelo,RJ,6.04
+20260859,Larissa Fernandes Cavalcanti Brito,45,Matematica,Januaria,ES,5.98
+20260860,Rafaela Gomes Barbosa,45,Administracao,Janauba,DF,9.07
+20260861,Olivia Marques,35,Engenharia de Software,Teofilo Otoni,SP,8.37
+20260862,Rafaela Pereira Gomes,30,Ciencia da Computacao,Diamantina,DF,9.05
+20260863,Leticia Machado Machado,20,Analise e Desenvolvimento de Sistemas,Teofilo Otoni,SP,5.67
+20260864,Tatiana Monteiro Ribeiro,20,Quimica,Vicosa,DF,5.1
+20260865,Fernanda Rocha Castro Barbosa,22,Administracao,Sao Francisco,GO,8.22
+20260866,Igor Lopes,25,Matematica,Lavras,MG,7.56
+20260867,Camila Soares Ramos Ferreira,33,Matematica,Pirapora,DF,8.95
+20260868,Amanda Moreira Lopes,45,Analise e Desenvolvimento de Sistemas,Almenara,MG,5.86
+20260869,Joao Marques Soares Pinto,21,Direito,Ouro Preto,SP,8.43
+20260870,Felipe Machado,48,Fisica,Diamantina,SP,9.31
+20260871,Debora Cardoso Andrade Barbosa,19,Fisica,Governador Valadares,MG,9.12
+20260872,Daniela Lopes Soares,53,Administracao,Brasilia de Minas,GO,9.7
+20260873,Helena Cavalcanti Lopes,46,Administracao,Montes Claros,RJ,9.54
+20260874,Yasmin Ferreira Lopes Barbosa,31,Sistemas de Informacao,Juiz de Fora,GO,6.55
+20260875,Guilherme Oliveira Fernandes Ferreira,49,Direito,Uberlandia,DF,6.63
+20260876,Gabriel Costa Soares,50,Engenharia Eletrica,Sao Francisco,RJ,7.95
+20260877,Alexandre Freitas Santos Souza,29,Fisica,Juiz de Fora,DF,8.14
+20260878,Nicolas Barbosa,38,Matematica,Salinas,MG,5.77
+20260879,Igor Castro Marques,38,Direito,Vicosa,DF,8.6
+20260880,Amanda Rocha Vieira,30,Engenharia Eletrica,Uberlandia,SP,5.89
+20260881,Thiago Almeida Santos Santos,53,Fisica,Governador Valadares,GO,6.12
+20260882,Larissa Martins,34,Quimica,Teofilo Otoni,MG,6.97
+20260883,Samuel Gomes Ferreira,41,Sistemas de Informacao,Curvelo,MG,5.07
+20260884,Larissa Ramos Pereira,32,Quimica,Belo Horizonte,BA,9.64
+20260885,Tatiana Vieira Ramos Moreira,26,Administracao,Belo Horizonte,ES,6.06
+20260886,Nicolas Marques Ribeiro Marques,27,Ciencia da Computacao,Brasilia de Minas,SP,6.15
+20260887,Rafaela Andrade Pinto,47,Engenharia Eletrica,Montes Claros,RJ,5.65
+20260888,Flavia Carvalho Moreira,45,Quimica,Governador Valadares,SP,5.36
+20260889,Daniela Dias Lopes,48,Medicina,Governador Valadares,GO,9.74
+20260890,Carlos Silva Soares,50,Matematica,Coronel Fabriciano,SP,9.79
+20260891,Igor Monteiro Oliveira,55,Sistemas de Informacao,Porteirinha,BA,7.47
+20260892,Larissa Lima Ferreira Rocha,51,Administracao,Almenara,SP,5.57
+20260893,Igor Ramos,35,Quimica,Sao Francisco,RJ,6.39
+20260894,Luana Soares Moura Rocha,45,Sistemas de Informacao,Janauba,GO,9.87
+20260895,Juliana Monteiro Mendes Souza,30,Sistemas de Informacao,Januaria,BA,5.9
+20260896,Lucas Freitas Machado,25,Direito,Januaria,RJ,6.75
+20260897,Natalia Freitas Ramos Pereira,27,Engenharia Eletrica,Sao Francisco,MG,6.0
+20260898,Lucas Teixeira Fernandes,54,Fisica,Curvelo,BA,7.86
+20260899,Camila Medeiros Ribeiro Marques,22,Analise e Desenvolvimento de Sistemas,Vicosa,GO,5.46
+20260900,Vinicius Pereira Nunes,41,Matematica,Pirapora,DF,6.59
+20260901,Larissa Cardoso,47,Fisica,Porteirinha,ES,8.22
+20260902,Carlos Brito Mendes,38,Quimica,Curvelo,BA,6.04
+20260903,Vinicius Rocha,21,Quimica,Salinas,ES,9.66
+20260904,Flavia Soares Ribeiro,33,Administracao,Salinas,MG,9.18
+20260905,Flavia Vieira,27,Engenharia Eletrica,Brasilia de Minas,RJ,8.93
+20260906,Yasmin Castro Lima Nascimento,24,Medicina,Lavras,BA,7.4
+20260907,Matheus Fernandes Medeiros Castro,45,Engenharia Eletrica,Uberlandia,DF,6.8
+20260908,Isabela Ferreira,20,Agronomia,Janauba,RJ,8.31
+20260909,Juliana Ramos Moura,51,Engenharia Eletrica,Brasilia de Minas,RJ,7.14
+20260910,Matheus Barbosa Gomes Lima,37,Analise e Desenvolvimento de Sistemas,Lavras,RJ,6.45
+20260911,Eduardo Oliveira,50,Engenharia Eletrica,Lavras,RJ,7.02
+20260912,Thiago Soares Nascimento,34,Matematica,Salinas,DF,7.47
+20260913,Larissa Ribeiro,29,Administracao,Januaria,MG,7.04
+20260914,Alexandre Pinto Freitas Mendes,34,Medicina,Teofilo Otoni,BA,5.91
+20260915,Gustavo Soares Alves Machado,52,Ciencia da Computacao,Montes Claros,RJ,5.57
+20260916,Matheus Freitas,43,Fisica,Governador Valadares,GO,7.38
+20260917,Luana Andrade Nunes,37,Engenharia Eletrica,Almenara,BA,5.07
+20260918,Bruno Martins,19,Analise e Desenvolvimento de Sistemas,Vicosa,GO,5.71
+20260919,Felipe Martins Ferreira,37,Direito,Almenara,RJ,7.07
+20260920,Juliana Mendes,49,Direito,Montes Claros,DF,7.2
+20260921,Vinicius Medeiros Nunes,21,Medicina,Montes Claros,MG,8.09
+20260922,Guilherme Ramos Pinto Castro,53,Engenharia de Software,Januaria,RJ,6.96
+20260923,Luana Ramos Almeida,21,Agronomia,Montes Claros,RJ,7.82
+20260924,Tatiana Marques Cardoso,25,Direito,Governador Valadares,GO,6.7
+20260925,Bruno Costa Vieira,30,Direito,Sao Francisco,RJ,6.14
+20260926,Beatriz Castro Freitas,26,Engenharia de Software,Coronel Fabriciano,RJ,9.08
+20260927,Debora Cardoso Costa,31,Engenharia de Software,Salinas,GO,7.37
+20260928,Lucas Castro,49,Engenharia Eletrica,Uberlandia,RJ,6.49
+20260929,Daniela Santos Nascimento,34,Medicina,Teofilo Otoni,BA,9.06
+20260930,Carlos Rodrigues Dias Machado,25,Matematica,Diamantina,MG,7.75
+20260931,Beatriz Nascimento Oliveira,53,Engenharia de Software,Almenara,DF,8.38
+20260932,Gabriel Souza Mendes,47,Engenharia Eletrica,Pirapora,DF,7.99
+20260933,Gabriel Monteiro Oliveira Teixeira,24,Sistemas de Informacao,Pirapora,DF,6.01
+20260934,Vinicius Mendes Teixeira,49,Quimica,Pirapora,BA,8.17
+20260935,Igor Pereira Martins,46,Administracao,Montes Claros,BA,9.09
+20260936,Vinicius Teixeira Costa,23,Engenharia de Software,Sao Francisco,GO,8.7
+20260937,Rafaela Gomes Moura,44,Analise e Desenvolvimento de Sistemas,Almenara,DF,7.1
+20260938,Larissa Moura Andrade Santos,46,Sistemas de Informacao,Montes Claros,GO,8.95
+20260939,Fernanda Dias Rocha Nunes,28,Administracao,Januaria,RJ,8.72
+20260940,Juliana Medeiros Souza,51,Engenharia de Software,Uberlandia,RJ,9.34
+20260941,Yasmin Rocha Nascimento Silva,35,Agronomia,Governador Valadares,BA,8.43
+20260942,Olivia Cavalcanti Brito,46,Quimica,Sao Francisco,DF,8.83
+20260943,Nicolas Barbosa Ferreira,20,Agronomia,Janauba,RJ,8.55
+20260944,Igor Moura Cavalcanti Vieira,31,Engenharia Eletrica,Lavras,ES,6.53
+20260945,Lucas Santos Santos,52,Matematica,Porteirinha,BA,9.08
+20260946,Isabela Teixeira Pereira,21,Medicina,Porteirinha,GO,7.49
+20260947,Helena Mendes,37,Matematica,Montes Claros,RJ,6.66
+20260948,Amanda Medeiros Cavalcanti,32,Medicina,Brasilia de Minas,SP,8.27
+20260949,Thiago Lima Moreira Moura,33,Engenharia Eletrica,Janauba,ES,7.85
+20260950,Debora Freitas Alves Gomes,45,Administracao,Salinas,MG,5.3
+20260951,Matheus Carvalho Mendes Rodrigues,41,Fisica,Lavras,RJ,7.88
+20260952,Flavia Soares Pinto,49,Fisica,Uberlandia,RJ,8.38
+20260953,Guilherme Costa Gomes Teixeira,26,Direito,Juiz de Fora,BA,9.74
+20260954,Camila Pereira Carvalho,47,Direito,Januaria,GO,5.77
+20260955,Helena Castro Marques,25,Engenharia Eletrica,Sao Francisco,ES,6.42
+20260956,Helena Andrade Barbosa,41,Engenharia de Software,Brasilia de Minas,RJ,5.14
+20260957,Amanda Marques,21,Engenharia de Software,Brasilia de Minas,BA,5.9
+20260958,Ana Pereira Monteiro Nascimento,22,Ciencia da Computacao,Uberlandia,RJ,7.81
+20260959,Beatriz Moreira Cardoso,26,Sistemas de Informacao,Lavras,GO,7.26
+20260960,Joao Gomes Rocha,23,Matematica,Governador Valadares,RJ,6.9
+20260961,Beatriz Cavalcanti Oliveira Mendes,35,Fisica,Salinas,DF,5.81
+20260962,Yasmin Monteiro,25,Fisica,Ouro Preto,MG,5.94
+20260963,Thiago Souza Medeiros,51,Analise e Desenvolvimento de Sistemas,Vicosa,ES,9.39
+20260964,Felipe Ribeiro,19,Engenharia de Software,Belo Horizonte,BA,9.07
+20260965,Amanda Mendes Ferreira Cavalcanti,38,Administracao,Curvelo,MG,7.41
+20260966,Beatriz Machado Ribeiro Marques,19,Agronomia,Janauba,RJ,6.26
+20260967,Gabriel Cavalcanti,28,Engenharia de Software,Almenara,BA,6.25
+20260968,Yasmin Marques,28,Ciencia da Computacao,Governador Valadares,SP,5.89
+20260969,Yasmin Moreira Alves Rocha,27,Administracao,Janauba,SP,6.84
+20260970,Helena Souza Martins Lopes,55,Analise e Desenvolvimento de Sistemas,Vicosa,ES,8.69
+20260971,Helena Fernandes Souza,38,Direito,Ouro Preto,RJ,5.32
+20260972,Pedro Santos,35,Agronomia,Curvelo,GO,5.5
+20260973,Igor Barbosa Medeiros Marques,46,Engenharia Eletrica,Lavras,BA,8.84
+20260974,Felipe Costa,33,Agronomia,Uberlandia,ES,7.21
+20260975,Larissa Brito,36,Fisica,Teofilo Otoni,MG,5.29
+20260976,Tatiana Castro Soares Moreira,40,Fisica,Belo Horizonte,ES,9.12
+20260977,Lucas Cavalcanti Medeiros,22,Engenharia de Software,Salinas,RJ,8.42
+20260978,Leticia Fernandes Machado Carvalho,50,Medicina,Janauba,GO,6.28
+20260979,Joao Fernandes Lopes Rocha,39,Analise e Desenvolvimento de Sistemas,Juiz de Fora,ES,6.61
+20260980,Igor Silva Castro Cardoso,18,Ciencia da Computacao,Teofilo Otoni,RJ,7.72
+20260981,Natalia Nunes Cavalcanti,23,Fisica,Salinas,ES,5.15
+20260982,Joao Pereira Nascimento Moreira,40,Administracao,Teofilo Otoni,DF,8.76
+20260983,Ana Pereira Freitas,41,Analise e Desenvolvimento de Sistemas,Juiz de Fora,MG,6.09
+20260984,Tatiana Nascimento,30,Engenharia Eletrica,Governador Valadares,GO,6.49
+20260985,Pedro Ramos Andrade Oliveira,35,Direito,Governador Valadares,BA,5.03
+20260986,Flavia Pereira Fernandes Medeiros,50,Direito,Teofilo Otoni,ES,5.95
+20260987,Gustavo Medeiros Ribeiro Rodrigues,55,Sistemas de Informacao,Salinas,BA,6.27
+20260988,Pedro Moura Fernandes,30,Fisica,Montes Claros,GO,8.32
+20260989,Leticia Freitas Silva,45,Fisica,Januaria,DF,9.6
+20260990,Guilherme Fernandes Pereira,51,Direito,Vicosa,SP,7.53
+20260991,Pedro Souza,35,Administracao,Ouro Preto,RJ,6.55
+20260992,Beatriz Ferreira Medeiros,19,Quimica,Diamantina,GO,7.08
+20260993,Rafaela Martins,28,Medicina,Brasilia de Minas,MG,8.07
+20260994,Matheus Machado,19,Matematica,Janauba,DF,6.23
+20260995,Rafaela Dias,21,Medicina,Lavras,DF,6.16
+20260996,Gustavo Brito,46,Engenharia Eletrica,Juiz de Fora,ES,5.61
+20260997,Carlos Moreira Rocha Rodrigues,26,Ciencia da Computacao,Juiz de Fora,MG,6.48
+20260998,Eduardo Alves Souza,53,Ciencia da Computacao,Brasilia de Minas,DF,6.87
+20260999,Guilherme Almeida,18,Direito,Coronel Fabriciano,RJ,8.9
+20261000,Luana Alves Dias Santos,47,Agronomia,Janauba,ES,5.94

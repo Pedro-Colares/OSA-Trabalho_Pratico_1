@@ -32,8 +32,8 @@ int Aluno::packFixo(char *buffer){
 }
 
 string Aluno::packDelimitado(){
-    return to_string(matricula) + "|" + string(nome) + "|" + to_string(idade) + "|" + string(curso) +
-    "|" + string(cidade) + "|" + string(uf) + "|" + to_string(cra); 
+    return to_string(matricula) + "#" + nome + "#" + to_string(idade) + "#" + curso +
+           "#" + cidade + "#" + uf + "#" + to_string(cra); 
 }
 
 int Aluno::packIndicador(char *buffer){
@@ -112,27 +112,27 @@ void Aluno::unpackFixo(const char *buffer){
 void Aluno::unpackDelimitado(const string &buffer){
     int posicao = 0, fim;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     matricula = stoi(buffer.substr(posicao, fim-posicao));
     posicao = fim+1;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     nome = buffer.substr(posicao, fim-posicao);
     posicao = fim+1;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     idade = stoi(buffer.substr(posicao, fim-posicao));
     posicao = fim+1;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     curso = buffer.substr(posicao, fim-posicao);
     posicao = fim+1;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     cidade = buffer.substr(posicao, fim-posicao);
     posicao = fim+1;
 
-    fim = buffer.find('|', posicao);
+    fim = buffer.find('#', posicao);
     uf = buffer.substr(posicao, fim-posicao);
     posicao = fim+1;
     

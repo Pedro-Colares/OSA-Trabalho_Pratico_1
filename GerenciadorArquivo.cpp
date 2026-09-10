@@ -99,3 +99,81 @@ vector<Aluno> GerenciadorArquivo::lerFixo(string arq) {
     arquivo.close();
     return alunos;
 }
+
+bool GerenciadorArquivo::lerPorRRN(string arq, int rrn, Aluno& out) {
+    ifstream arquivo(arq, ios::binary | ios::in);
+
+    if (!arquivo.is_open()) {
+        cout << "Erro ao abrir arquivo." << endl;
+        return false;
+    }
+
+    int offset = rrn * 120;
+    arquivo.seekg(offset, ios::beg);
+
+
+    char buffer[120];
+
+
+    if (!arquivo.read(buffer, 120)) {
+        cout << "Erro ao ler registro RRN " << rrn << endl;
+        arquivo.close();
+        return false;
+    }
+
+    out.unpackFixo(buffer);
+    arquivo.close();
+    return true;
+}
+
+bool GerenciadorArquivo::salvarDelimitado(string arq, vector<Aluno> alunos) {
+    ofstream arquivo(arq, ios::binary | ios::out);
+
+    if (!arquivo.is_open()) {
+        cout << "Erro ao abrir arquivo." << endl;
+        return false;
+    }
+
+    for (int i = 0; i < alunos.size(); i++) {
+        string linha = alunos[i].packDelimitado();
+        arquivo.write(linha.c_str(), linha.size());
+        arquivo.put('|');
+    }
+
+    arquivo.close();
+    return true;
+}
+
+long long GerenciadorArquivo::obterTamanhoArquivo(string arq) {
+    ifstream arquivo(arq, ios::binary | ios::ate);
+
+    if (!arquivo.is_open()) {
+        return -1;
+    }
+
+    long long tamanho = arquivo.tellg();
+    arquivo.close();
+    return tamanho;
+}
+
+vector<Aluno> GerenciadorArquivo::lerDelimitado(string arq) {
+    vector<Aluno> alunos;
+
+    ifstream arquivo(arq, ios::binary | ios::in);
+
+    if (!arquivo.is_open()) {
+        cout << "Erro ao abrir arquivo." << endl;
+        return alunos;
+    }
+
+    string registro;
+
+    while (getline(arquivo, registro, '|')) {
+        Aluno a;
+        a.unpackDelimitado(registro);
+        alunos.push_back(a);
+    }
+
+    arquivo.close();
+    return alunos;
+}

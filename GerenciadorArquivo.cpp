@@ -1,7 +1,6 @@
 #include "GerenciadorArquivo.h"
 #include <iostream>
 #include <fstream>
-#include <sstream>
 
 using namespace std;
 
@@ -69,7 +68,7 @@ bool GerenciadorArquivo::salvarFixo(string arq, vector<Aluno> alunos) {
 
     char buffer[120];
 
-    for (int i = 0; i < alunos.size(); i++) {
+    for (size_t i = 0; i < alunos.size(); i++) {
         alunos[i].packFixo(buffer);
         arquivo.write(buffer, 120);
     }
@@ -134,7 +133,7 @@ bool GerenciadorArquivo::salvarDelimitado(string arq, vector<Aluno> alunos) {
         return false;
     }
 
-    for (int i = 0; i < alunos.size(); i++) {
+    for (size_t i = 0; i < alunos.size(); i++) {
         string linha = alunos[i].packDelimitado();
         arquivo.write(linha.c_str(), linha.size());
         arquivo.put('|');

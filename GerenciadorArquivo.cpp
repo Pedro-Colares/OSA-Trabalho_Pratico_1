@@ -42,14 +42,8 @@ vector<Aluno> GerenciadorArquivo::lerCSV(string caminho) {
     
         vector<string> campos = split(linha, ',');
 
-        Aluno a;
-        a.matricula = stoi(campos[0]);
-        a.nome      = campos[1];
-        a.idade     = stoi(campos[2]);
-        a.curso     = campos[3];
-        a.cidade    = campos[4];
-        a.uf        = campos[5];
-        a.cra       = stof(campos[6]);
+        Aluno a(stoi(campos[0]), campos[1], stoi(campos[2]), campos[3],
+               campos[4], campos[5], stof(campos[6]));
 
         alunos.push_back(a);
     }
@@ -67,11 +61,11 @@ bool GerenciadorArquivo::salvarFixo(string arq, vector<Aluno> alunos) {
         return false;
     }
 
-    char buffer[120];
+    char buffer[Aluno::TAMANHO_REGISTRO_FIXO];
 
-    for (int i = 0; i < alunos.size(); i++) {
+    for (size_t i = 0; i < alunos.size(); i++) {
         alunos[i].packFixo(buffer);
-        arquivo.write(buffer, 120);
+        arquivo.write(buffer, Aluno::TAMANHO_REGISTRO_FIXO);
     }
 
     arquivo.close();
@@ -88,9 +82,9 @@ vector<Aluno> GerenciadorArquivo::lerFixo(string arq) {
         return alunos;
     }
 
-    char buffer[120];
+    char buffer[Aluno::TAMANHO_REGISTRO_FIXO];
 
-    while (arquivo.read(buffer, 120)) {
+    while (arquivo.read(buffer, Aluno::TAMANHO_REGISTRO_FIXO)) {
         Aluno a;
         a.unpackFixo(buffer);
         alunos.push_back(a);
@@ -108,14 +102,14 @@ bool GerenciadorArquivo::lerPorRRN(string arq, int rrn, Aluno& out) {
         return false;
     }
 
-    int offset = rrn * 120;
+    int offset = rrn * Aluno::TAMANHO_REGISTRO_FIXO;
     arquivo.seekg(offset, ios::beg);
 
 
-    char buffer[120];
+    char buffer[Aluno::TAMANHO_REGISTRO_FIXO];
 
 
-    if (!arquivo.read(buffer, 120)) {
+    if (!arquivo.read(buffer, Aluno::TAMANHO_REGISTRO_FIXO)) {
         cout << "Erro ao ler registro RRN " << rrn << endl;
         arquivo.close();
         return false;
@@ -134,7 +128,7 @@ bool GerenciadorArquivo::salvarDelimitado(string arq, vector<Aluno> alunos) {
         return false;
     }
 
-    for (int i = 0; i < alunos.size(); i++) {
+    for (size_t i = 0; i < alunos.size(); i++) {
         string linha = alunos[i].packDelimitado();
         arquivo.write(linha.c_str(), linha.size());
         arquivo.put('|');

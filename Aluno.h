@@ -4,7 +4,7 @@
 #include <string>
 
 class Aluno {
-public:
+private:
     int matricula;
     std::string nome;
     int idade;
@@ -12,6 +12,35 @@ public:
     std::string cidade;
     std::string uf;
     float cra;
+
+public:
+    static constexpr int TAMANHO_REGISTRO_FIXO = 164;
+
+    Aluno();
+    Aluno(int matricula, const std::string& nome, int idade,
+          const std::string& curso, const std::string& cidade,
+          const std::string& uf, float cra);
+
+    int getMatricula() const;
+    void setMatricula(int matricula);
+
+    const std::string& getNome() const;
+    void setNome(const std::string& nome);
+
+    int getIdade() const;
+    void setIdade(int idade);
+
+    const std::string& getCurso() const;
+    void setCurso(const std::string& curso);
+
+    const std::string& getCidade() const;
+    void setCidade(const std::string& cidade);
+
+    const std::string& getUf() const;
+    void setUf(const std::string& uf);
+
+    float getCra() const;
+    void setCra(float cra);
 
     int packFixo(char* buffer);
     std::string packDelimitado();

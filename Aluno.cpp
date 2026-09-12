@@ -91,27 +91,26 @@ int Aluno::packFixo(char *buffer){
     memcpy(buffer + posicao, &matricula, sizeof(matricula));
     posicao += sizeof(matricula);
 
-    memcpy(buffer + posicao, nome.c_str(), nome.size() < 50 ? nome.size() : 50);
-    posicao += 50;
+    memcpy(buffer + posicao, nome.c_str(), nome.size() < 40 ? nome.size() : 40);
+    posicao += 40;
 
     memcpy(buffer + posicao, &idade, sizeof(idade));
     posicao += sizeof(idade);
 
-    memcpy(buffer + posicao, curso.c_str(), curso.size() < 50 ? curso.size() : 50);
-    posicao += 50;
+    memcpy(buffer + posicao, curso.c_str(), curso.size() < 35 ? curso.size() : 35);
+    posicao += 35;
 
-    memcpy(buffer + posicao, cidade.c_str(), cidade.size() < 50 ? cidade.size() : 50);
-    posicao += 50;
+    memcpy(buffer + posicao, cidade.c_str(), cidade.size() < 30 ? cidade.size() : 30);
+    posicao += 30;
 
-    memcpy(buffer + posicao, uf.c_str(), uf.size() < 2 ? uf.size() : 2);
-    posicao += 2;
+    memcpy(buffer + posicao, uf.c_str(), uf.size() < 3 ? uf.size() : 3);
+    posicao += 3;
 
     memcpy(buffer + posicao, &cra, sizeof(cra));
     posicao += sizeof(cra);
 
     return posicao;
 }
-
 string Aluno::packDelimitado(){
     return to_string(matricula) + "#" + nome + "#" + to_string(idade) + "#" + curso +
            "#" + cidade + "#" + uf + "#" + to_string(cra);
@@ -120,47 +119,39 @@ string Aluno::packDelimitado(){
 int Aluno::packIndicador(char *buffer){
     int posicao = 0;
 
-    int tam = sizeof(matricula);
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, &matricula, tam);
-    posicao += tam;
+    memcpy(buffer + posicao, &matricula, sizeof(matricula));
+    posicao = posicao + sizeof(matricula);
 
-    tam = nome.size();
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, nome.data(), tam);
-    posicao += tam;
+    unsigned char tamNome = (unsigned char) nome.size();
+    memcpy(buffer + posicao, &tamNome, sizeof(tamNome));
+    posicao = posicao + sizeof(tamNome);
 
-    tam = sizeof(idade);
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, &idade, tam);
-    posicao += tam;
+    memcpy(buffer + posicao, nome.data(), tamNome);   
+    posicao += tamNome;
 
-    tam = curso.size();
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, curso.data(), tam);
-    posicao += tam;
+    memcpy(buffer + posicao, &idade, sizeof(idade));
+    posicao += sizeof(idade);
 
-    tam = cidade.size();
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, cidade.data(), tam);
-    posicao += tam;
+    unsigned char tamCurso = (unsigned char) curso.size();
+    memcpy(buffer + posicao, &tamCurso, sizeof(tamCurso));
+    posicao += sizeof(tamCurso);
+    memcpy(buffer + posicao, curso.data(), tamCurso);
+    posicao += tamCurso;
 
-    tam = uf.size();
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, uf.data(), tam);
-    posicao += tam;
+    unsigned char tamCidade = (unsigned char) cidade.size();
+    memcpy(buffer + posicao, &tamCidade, sizeof(tamCidade));
+    posicao += sizeof(tamCidade);
+    memcpy(buffer + posicao, cidade.data(), tamCidade);
+    posicao += tamCidade;
 
-    tam = sizeof(cra);
-    memcpy(buffer + posicao, &tam, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(buffer + posicao, &cra, tam);
-    posicao += tam;
+    unsigned char tamUf = (unsigned char) uf.size();
+    memcpy(buffer + posicao, &tamUf, sizeof(tamUf));
+    posicao += sizeof(tamUf);
+    memcpy(buffer + posicao, uf.data(), tamUf);
+    posicao += tamUf;
+
+    memcpy(buffer + posicao, &cra, sizeof(cra));
+    posicao += sizeof(cra);
 
     return posicao;
 }
@@ -171,24 +162,24 @@ void Aluno::unpackFixo(const char *buffer){
     memcpy(&matricula, buffer + posicao, sizeof(matricula));
     posicao += sizeof(matricula);
 
-    nome.assign(buffer + posicao, 50);
+    nome.assign(buffer + posicao, 40);
     if (size_t fim = nome.find('\0'); fim != string::npos) nome.resize(fim);
-    posicao += 50;
+    posicao += 40;
 
     memcpy(&idade, buffer + posicao, sizeof(idade));
     posicao += sizeof(idade);
 
-    curso.assign(buffer + posicao, 50);
+    curso.assign(buffer + posicao, 35);
     if (size_t fim = curso.find('\0'); fim != string::npos) curso.resize(fim);
-    posicao += 50;
+    posicao += 35;
 
-    cidade.assign(buffer + posicao, 50);
+    cidade.assign(buffer + posicao, 30);
     if (size_t fim = cidade.find('\0'); fim != string::npos) cidade.resize(fim);
-    posicao += 50;
+    posicao += 30;
 
-    uf.assign(buffer + posicao, 2);
+    uf.assign(buffer + posicao, 3);
     if (size_t fim = uf.find('\0'); fim != string::npos) uf.resize(fim);
-    posicao += 2;
+    posicao += 3;
 
     memcpy(&cra, buffer + posicao, sizeof(cra));
     posicao += sizeof(cra);

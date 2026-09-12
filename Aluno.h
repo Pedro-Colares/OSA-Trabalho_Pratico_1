@@ -14,7 +14,7 @@ private:
     float cra;
 
 public:
-    static constexpr int TAMANHO_REGISTRO_FIXO = 164;
+    static constexpr int TAMANHO_REGISTRO_FIXO = 120;
 
     Aluno();
     Aluno(int matricula, const std::string& nome, int idade,

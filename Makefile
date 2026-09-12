@@ -1,5 +1,5 @@
 MAIN := main
-OBJECTS := main.o Aluno.o GerenciadorArquivo.o
+OBJECTS := main.o Aluno.o GerenciadorArquivo.o Benchmark.o
 CXXFLAGS := -Wall -Wextra -std=c++17 -pedantic-errors -O2
 DEBUG := -g
 MATH := -lm

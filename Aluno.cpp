@@ -216,45 +216,46 @@ void Aluno::unpackDelimitado(const string &buffer){
 }
 
 void Aluno::unpackIndicador(const char *buffer){
-    int posicao = 0, tam;
+    int posicao = 0;
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(&matricula, buffer + posicao, tam);
-    posicao += tam;
+    memcpy(&matricula, buffer + posicao, sizeof(matricula));
+    posicao += sizeof(matricula);
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    nome.assign(buffer + posicao, tam);
-    posicao += tam;
+    unsigned char tamNome;
+    memcpy(&tamNome, buffer + posicao, sizeof(tamNome));
+    posicao += sizeof(tamNome);
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(&idade, buffer + posicao, tam);
-    posicao += tam;
+    nome.assign(buffer + posicao, tamNome);
+    posicao += tamNome;
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    curso.assign(buffer + posicao, tam);
-    posicao += tam;
+    memcpy(&idade, buffer + posicao, sizeof(idade));
+    posicao += sizeof(idade);
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    cidade.assign(buffer + posicao, tam);
-    posicao += tam;
+    unsigned char tamCurso;
+    memcpy(&tamCurso, buffer + posicao, sizeof(tamCurso));
+    posicao += sizeof(tamCurso);
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    uf.assign(buffer + posicao, tam);
-    posicao += tam;
+    curso.assign(buffer + posicao, tamCurso);
+    posicao += tamCurso;
 
-    memcpy(&tam, buffer + posicao, sizeof(int));
-    posicao += sizeof(int);
-    memcpy(&cra, buffer + posicao, tam);
-    posicao += tam;
+    unsigned char tamCidade;
+    memcpy(&tamCidade, buffer + posicao, sizeof(tamCidade));
+    posicao += sizeof(tamCidade);
+
+    cidade.assign(buffer + posicao, tamCidade);
+    posicao += tamCidade;
+
+    unsigned char tamUf;
+    memcpy(&tamUf, buffer + posicao, sizeof(tamUf));
+    posicao += sizeof(tamUf);
+
+    uf.assign(buffer + posicao, tamUf);
+    posicao += tamUf;
+
+    memcpy(&cra, buffer + posicao, sizeof(cra));
 }
 
-int Aluno::getBytesUteis(){
+int Aluno::getBytesUteis() const{
     return sizeof(matricula) + nome.size() + sizeof(idade) + 
         curso.size() + cidade.size() + uf.size() + sizeof(cra);
 }

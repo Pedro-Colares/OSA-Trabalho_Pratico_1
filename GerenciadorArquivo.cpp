@@ -12,7 +12,7 @@ vector<string> split(const string &linha, char delimitador) {
     while(true){
         fim = linha.find(delimitador, posicao);
         if(fim == string::npos){
-            campos.push_back(linha.substr(posicao, fim - posicao));
+            campos.push_back(linha.substr(posicao));
             break;
         }
         campos.push_back(linha.substr(posicao, fim - posicao));
@@ -168,5 +168,64 @@ vector<Aluno> GerenciadorArquivo::lerDelimitado(string arq) {
     }
 
     arquivo.close();
+    return alunos;
+}
+
+bool GerenciadorArquivo::salvarIndicador(string arq, vector<Aluno> alunos) {
+    ofstream arquivo(arq, ios::binary | ios::out);
+    if(!arquivo.is_open()){
+        cout << "Erro ao abrir arquivo." << endl;
+        return false;
+    }
+    char buffer[124];
+
+    for(size_t i=0; i<alunos.size(); i++) {
+
+        int tamanho = alunos[i].packIndicador(buffer);
+
+        unsigned short tamanhoRegistro =
+            static_cast<unsigned short>(tamanho);
+
+        arquivo.write(
+            reinterpret_cast<const char*>(&tamanhoRegistro),
+            sizeof(tamanhoRegistro)
+        );
+
+        arquivo.write(buffer, tamanho);
+    }
+
+    arquivo.close();
+
+    return true;
+}
+
+vector<Aluno> GerenciadorArquivo::lerIndicador(string arq) {
+    vector<Aluno> alunos;
+    ifstream arquivo(arq, ios::binary | ios::in);
+    if (!arquivo.is_open()){
+        cout << "Erro ao abrir arquivo." << endl;
+        return alunos;
+    }
+    while (true){
+        unsigned short tamanhoRegistro;
+        if(!arquivo.read(
+            reinterpret_cast<char*>(&tamanhoRegistro),
+            sizeof(tamanhoRegistro))){
+            break;
+        }
+
+        char buffer[124];
+        if (!arquivo.read(buffer, tamanhoRegistro)){
+            cout << "Erro ao ler registro." << endl;
+            break;
+        }
+
+        Aluno a;
+        a.unpackIndicador(buffer);
+        alunos.push_back(a);
+    }
+
+    arquivo.close();
+
     return alunos;
 }

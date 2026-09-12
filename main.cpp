@@ -1,35 +1,28 @@
-#include "GerenciadorArquivo.h"
-#include<iostream>
-#include<vector>
+#include "Benchmark.h"
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
 int main(){
-    string caminhoCSV = "arquivos/alunos_1k.csv";
-    string caminhoBinario = "alunos_dat";
+    Benchmark benchmark;
 
-    vector<Aluno> alunos = GerenciadorArquivo::lerCSV(caminhoCSV);
-    if(alunos.empty()){
-        cout << "Nenhum aluno foi carregado.\n" << endl;
-        return 1;
-    }
+    ofstream resultados("resultados.csv");
 
-    cout << "Alunos carregados: " << alunos.size() << ".\n" << endl;
+    resultados << "N,TempoDireto,TempoSequencial\n";
 
-    GerenciadorArquivo::salvarFixo(caminhoBinario, alunos);
-    vector<Aluno> alunosLidos= GerenciadorArquivo::lerFixo(caminhoBinario);
-    cout << "Alunos lidos do arquivo: " << alunosLidos.size() << ".\n" << endl;
+    resultados.close();
 
-    if(!alunosLidos.empty()){
-        alunosLidos[0].imprimir();
-    }
+    ofstream metricas("metricas.csv");
 
-    Aluno aluno;
-    int rrn = 2;
-    if(GerenciadorArquivo::lerPorRRN(caminhoBinario, rrn, aluno)){
-        cout << "Aluno encontrado no RRN " << rrn << ".\n" << endl;
-        aluno.imprimir();
-    }
+    metricas << "Formato,N,TamanhoDisco,BytesUteis,Eficiencia,TempoLeitura\n";
+
+    metricas.close();
+
+    benchmark.executar("arquivos/alunos_1k.csv");
+    benchmark.executar("arquivos/alunos_10k.csv");
+    benchmark.executar("arquivos/alunos_50k.csv");
+    benchmark.executar("arquivos/alunos_100k.csv");
 
     return 0;
 }

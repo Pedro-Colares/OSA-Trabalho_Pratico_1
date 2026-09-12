@@ -50,7 +50,7 @@ public:
     void unpackDelimitado(const std::string& buffer);
     void unpackIndicador(const char* buffer);
 
-    int getBytesUteis();
+    int getBytesUteis() const;
     void imprimir();
 };
 

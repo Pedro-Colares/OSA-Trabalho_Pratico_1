@@ -26,7 +26,7 @@ $(OUTPUTMAIN): $(OBJECTS)
 
 
 clean:
-	@$(DEL) $(OBJECTS) $(OUTPUTMAIN) *.dat
+	@$(DEL) $(OBJECTS) $(OUTPUTMAIN) *.bin *.dat *.csv
 
 run: all
 	./$(OUTPUTMAIN)

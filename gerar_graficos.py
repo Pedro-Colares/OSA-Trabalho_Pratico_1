@@ -70,15 +70,15 @@ for formato in ["Fixo", "Delimitado", "Indicador"]:
 
     plt.plot(
         dados["N"],
-        dados["TamanhoDisco"],
+        dados["TamanhoDiscoMB"],
         marker="o",
         label=formato
     )
 
-dados_uteis = metricas.drop_duplicates("N")
+dados_uteis = metricas.drop_duplicates("N").sort_values("N")
 plt.plot(
         dados_uteis["N"],
-    dados_uteis["BytesUteis"],
+    dados_uteis["BytesUteisMB"],
     marker="o",
     label="Bytes Úteis"
     )
@@ -121,7 +121,7 @@ plt.bar(
 
 plt.xlabel("Formato")
 plt.ylabel("Composição do Arquivo (%)")
-plt.title("Ocupação em Disco vs. Volume de Dados:")
+plt.title("Eficiência de Armazenamento e Fragmentação Interna (%):")
 plt.ylim(0, 100)
 plt.legend()
 plt.grid(axis="y")
